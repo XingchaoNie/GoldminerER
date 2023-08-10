@@ -1,5 +1,5 @@
 # GoldminerER
-## 一、表情、声音双模态情绪识别<PVER-master>
+## 一、表情及音频双模态情绪识别<PVER-master>
 ### 环境配置
 1. 系统环境配置。于PVER-master/config路径下进行如下操作
   - 新建conda环境, python版本为3.7
@@ -42,3 +42,9 @@ video_tag = False
 
 ### 项目结构说明
 待补充
+
+# 二、文本主题识别
+待补充
+# 三、COGMEN
+待补充
+# 四、待补充
