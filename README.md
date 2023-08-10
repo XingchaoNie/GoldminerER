@@ -44,7 +44,7 @@ video_tag = False
 2. 程序将视频的音视频进行分离并对视频进行抽帧，抽帧结果如下</br>
 ![image](PVER-master/Repo/data/img/testsub4_154_1.png)
 3. 程序输入音视频多模态情绪识别模型，并逐帧框出人脸范围，并对面部情绪进行识别</br>
-
+![image](PVER-master/Repo/results/img/testsub4_154_8.png)
 ### 项目结构说明
 待补充
 
