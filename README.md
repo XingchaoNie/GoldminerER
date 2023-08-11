@@ -94,8 +94,8 @@ python main.py --mode train  --train_embeddings 1 --epochs 1000
 ### 结果展示
 ![image](ETM/results/result.png)
 
-# 四、COGMEN
-### Requirements
+# 四、对话文本情感识别
+### 需求
 We use PyG (PyTorch Geometric) for the GNN component in our architecture. RGCNConv and TransformerConv
 
 使用 comet 记录所有实验，并使用其贝叶斯优化器调整超参数。
