@@ -53,6 +53,32 @@ video_tag = False
 ## 环境配置
 
 1. 基本环境配置与上一节中基于面部表情的情绪识别一致
+2. 额外需要安装的部分
+```python
+pip install transformers, speechbrain
+```
+## 开始使用
+打开PER/new/teset.ipynb
+运行其中的cell即可。
+
+## 执行过程和结果
+算法调用预训练模型，识别输入的语音信号中存在的情感。并将结果输出。<br>
+![1ba36eb05b4af6d6d3ac1aa3f61511d](https://github.com/XingchaoNie/GoldminerER/assets/42695888/71ddbb2c-c4c4-4331-ae65-e5b0f6f8db16)
+
+
+### 引用
+```
+@misc{speechbrain,
+  title={{SpeechBrain}: A General-Purpose Speech Toolkit},
+  author={Mirco Ravanelli and Titouan Parcollet and Peter Plantinga and Aku Rouhe and Samuele Cornell and Loren Lugosch and Cem Subakan and Nauman Dawalatabad and Abdelwahab Heba and Jianyuan Zhong and Ju-Chieh Chou and Sung-Lin Yeh and Szu-Wei Fu and Chien-Feng Liao and Elena Rastorgueva and François Grondin and William Aris and Hwidong Na and Yan Gao and Renato De Mori and Yoshua Bengio},
+  year={2021},
+  eprint={2106.04624},
+  archivePrefix={arXiv},
+  primaryClass={eess.AS},
+  note={arXiv:2106.04624}
+}
+```
+
 
 # 三、文本主题识别
 
