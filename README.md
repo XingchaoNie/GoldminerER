@@ -51,26 +51,34 @@ video_tag = False
 ## 二、文本主题识别
 待补充
 # 三、COGMEN
-### Requirements
-We use PyG (PyTorch Geometric) for the GNN component in our architecture. RGCNConv and TransformerConv
+### 需求
+在架构中使用 PyG（PyTorch Geometric）作为 GNN 组件。
 
-We use comet for logging all our experiments and its Bayesian optimizer for hyperparameter tuning.
+使用 comet 记录所有实验，并使用其贝叶斯优化器调整超参数。
 
-For textual features we use SBERT.
-### Installations
-Install PyTorch Geometric
+对于文本特征，我们使用 SBERT。
+### 环境配置
+python3.7版本及以上
 
-Install Comet.ml
+Pytorch如果安装GPU版本，cuda版本需要11.7及以上
 
-Install SBERT 
-### Preparing datasets for training
+pip install comet_ml --upgrade #使用默认的 Python，comet_ml升级到最新版本
+
+pip install torch_geometric（如果报错可卸载最新版本，使用2.1.0版本）
+
+pip install -U sentence-transformers
+### 数据预处理
+数据集：iemocap_4
+
+对数据集进行处理，运行
+
 python preprocess.py --dataset="iemocap_4"
-### Training networks
+### 开始训练
 python train.py --dataset="iemocap_4" --modalities="atv" --from_begin --epochs=55
-### Run Evaluation
+### 运行评估
 python eval.py --dataset="iemocap_4" --modalities="atv"
 
-### Citation
+### 引用
 Paper: https://arxiv.org/abs/2205.02455
 
 https://github.com/Exploration-Lab/COGMEN
