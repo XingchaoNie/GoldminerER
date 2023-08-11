@@ -62,22 +62,20 @@ video_tag = False
 We use PyG (PyTorch Geometric) for the GNN component in our architecture. RGCNConv and TransformerConv
 
 We use comet for logging all our experiments and its Bayesian optimizer for hyperparameter tuning.
+使用 comet 记录所有实验，并使用其贝叶斯优化器调整超参数。
 
-For textual features we use SBERT.
-### Installations
-Install PyTorch Geometric
+对于文本特征，我们使用 SBERT。
+### 环境配置
 
 Install Comet.ml
 
-Install SBERT 
-### Preparing datasets for training
 python preprocess.py --dataset="iemocap_4"
-### Training networks
+### 开始训练
 python train.py --dataset="iemocap_4" --modalities="atv" --from_begin --epochs=55
-### Run Evaluation
+### 运行评估
 python eval.py --dataset="iemocap_4" --modalities="atv"
 
-### Citation
+### 引用
 Paper: https://arxiv.org/abs/2205.02455
 
 https://github.com/Exploration-Lab/COGMEN
@@ -182,6 +180,28 @@ print(key_phrases)
     - Phrase repetition calculation is added  
     - Provide only noun phrases extraction parameters  
 - Calculating the topic probability distribution of the text and the topic probability distribution of each candidate phrase by using the pre-trained LDA model to obtain the final weight  
+
+
+## 五：知识图谱构建
+### 1.依赖安装
+python>=3.7
+
+```python
+pip install -r requirements.txt
+```
+### 2. 算法功能和使用方法
+该算法实现从非结构化文本中抽取实体和关系，并将其组成三元组，构建知识图谱。<br>
+**执行算法**
+```
+python3 demo_test.py --sens "2022年6月10日2时40分许，陈继志到正在店内用餐的被害人王某某、李某、远某、刘某某桌旁，对王某某实施骚扰，遭拒后，陈继志殴打王某某，王某某与李某进行反抗。"
+```
+<br>
+
+**执行过程和结果** 
+
+![image](https://github.com/XingchaoNie/GoldminerER/assets/42695888/118c8b60-4ead-4f0c-93da-2a82a2135de0)
+
+
 
 
 ## Reference  
