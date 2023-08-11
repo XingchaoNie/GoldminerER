@@ -1,0 +1,5216 @@
+{
+  "id": 44,
+  "text": "零件的加工质量是保证机械产品质量的基础。\n零件的加工质量包括零件的机械加工精度和加工表面质量两大方面。\n机械加工精度是指零件加工后的实际几何参数（尺寸、形状和表面间的相互位置）与理想几何参数的符合程度。符合程度越高，加工精度就越高。\n加工误差是指加工后零件的实际几何参数（尺寸、形状和表面间的相互位置）对理想几何参数的偏离程度。\n加工精度和加工误差是从两个不同的角度来评定加工零件的几何参数的，加工精度的低和高就是通过加工误差的大和小来表示的。\n所谓保证和提高加工精度问题，实际上就是限制和降低加工误差问题。\n零件的加工精度包含三个方面：尺寸精度、形状精度和位置精度。这三者之间是有联系的。\n通常形状公差应限制在位置公差之内，而位置公差一般应限制在尺寸公差之内。\n当尺寸精度要求髙时，相应的位置精度和形状精度也要求高。但形状精度要求髙时，相应的位置精度和尺寸精度有时不一定要求高，这要根据零件的功能要求来决定。\n一般情况下，零件的加工精度越高则加工成本相对地越高，生产效率则相对地越低。\n工艺人员则应根据设计要求、 生产条件等采取适当的工艺方法，以保证加工误差不超过允许范围，并在此前提下尽量提高生产率和降低成本。\n在机械加工中，零件的尺寸、几何形状和表面间相对位置的形成，归结到一点，就是取决于工件和刀具在切削运动过程中相互位置的关系，而工件和刀具又安装在夹具和机床上，并受到夹具和机床的约束。\n因此，在机械加工时，机床、夹具、刀具和工件就构成了一个完整的系统，称之为工艺系统。\n加工精度问题也就牵涉到整个工艺系统的精度问题。\n工艺系统中的种种误差，就在不同的具体条件下，以不同的程度和方式反映为加工误差。\n工艺系统的误差是 “因”， 是根源；加工误差是“果”，是表现，因此，把工艺系统的误差称之为原始误差。\n零件在加工过程中可能出现各种原始误差，它们会引起工艺系统各环节相互位置关系的变化而造成加工误差。\n活塞以止口及其端面为定位基准，在夹具中定位，并用菱形销插人经半精镗的销孔中作周向定位。固定活塞的夹紧力作用在活塞的顶部。\n这时就产生了由于设计基准（顶面）与定位基准（止口端面）不重合，以及定位止口与夹具上凸台、菱形销与销孔的配合间隙而引起的定位误差，还存在由于夹紧力过大而引起的夹紧误差。这两项原始误差统称为工件的装夹误差。\n装夹工件前后，必须对机床、刀具和夹具进行调整，并在试切几个工件后再进行精确微调，才能使工件和刀具之间保持正确的相对位置。\n如本例需进行夹具在工作台上的位置调整，菱形销与主轴同轴度的调整，以及对刀调整（调整镗刀切削刃的伸出长度，以保证镗孔直径）等。\n由于调整不可能绝对精确，因而会产生调整误差。另外机床、刀具、夹具本身的制造误差在加工前就已经存在了。这类原始误差称为工艺系统的几何误差。\n由于在加工过程中产生了切削力、切削热和摩擦，它们将引起工艺系统的受力变形、受热变形和磨损，这些都会影响在调整时所获得的工件与刀具之间的相对位置，造成各种加工误差。这类在加工过程中产生的原始误差称为工艺系统的动误差。\n任何测量方法和量具、量仪不可能绝对准确，因此测量误差也是一项不容忽视的原始误差。\n测量误差是工件的测量尺寸与实际尺寸的差值。\n加工一般精度的零件时，测量误差可占到工序尺寸公差的1\/10~1\/5; 加工精密零件时，测量误差可占到工序尺寸公差的1\/3左右。\n此外，工件在毛坯制造（铸、锻、焊、轧制）、切削加工和热处理时产生的力和热的作用下产生的工件内应力，将会引起工件变形而产生加工误差。\n有时由于采用了近似的成形方法进行加工，还会造成加工原理误差。 因此，由工件内应力引起的变形及原理误差也是原始误差。\n切削加工过程中，由于各种原始误差的影响，会使刀具和工件间正确的几何关系遭到破坏，引起加工误差。\n通常，各种原始误差的大小和方向是各不相同的，而加工误差必须在工序尺寸方向度量。因此，不同的原始误差对加工精度有不同的影响。\n当原始误差方向与工序尺寸方向一致时，其对加工精度的影响最大。\n当原始误差方向恰为加工表面法线方向时，引起的加工误差最大。当误差方向恰为加工表面的切线方向时，引起的加工误差最小，通常可以忽略。\n为了便于分析原始误差对加工精度的影响，我们把对加工精度影响最大的那个方向（即通过切削刃的加工表面的法向）称为误差的敏感方向。\n研究加工精度的方法有两种————单因素分析法和统计分析法。在实际生产中， 这两种方法常结合起来应用。\n单因素分析法：研究某一确定因素对加工精度的影响，为简单起见，研究时一般不考虑其他因素的同时作用。通过分析计算，或测试、实验，得出该因素与加工误差间的关系。\n统计分析法：以生产中一批工件的实测结果为基础，运用数理统计方法进行数据处理，用以控制工艺过程的正常进行。统计分析法只适用于批量生产。\n加工原理误差是指采用了近似的成形运动或近似的切削刃轮廓进行加工而产生的误差。\n在三坐标数控铣床上铣削复杂型面零件时，通常要用球头刀并采用“行切法”加工。\n所谓行切法，就是球头刀与零件轮廓的切点轨迹是一行一行的，而行间距s是按零件加工要求确定的。\n行切法是将空间立体形面视为众多的平面截线的集合，每次走刀加工出其中的一条截线。\n又如滚齿用的齿轮滚刀，就有两种误差，一是为了制造方便，采用阿基米德蜗杆或法向直廓蜗杆代替渐开线基本蜗杆而产生的切削刃齿廓近似造形误差；二是由于滚刀刀齿有限，实际上加工出的齿形是一条由微小折线段组成的曲线，这和理论上的光滑渐开线有差异。这些都会产生加工原理误差。\n再如用模数铣刀成形铣削齿轮，也采用近似切削刃齿廓，同样会产生加工原理误差。\n采用近似的成形运动或近似的切削刃轮廓，虽然会带来加工原理误差，但往往可简化机床结构或刀具形状，或可提高生产效率，有时甚至能得到高的加工精度。\n由于调整不可能绝对地准确，因而产生调整误差。\n工艺系统的调整有两种基本方式，即试切法调整和调整法。不同的调整方式有不同的误差来源。\n单件小批生产中普遍采用试切法加工。\n试切法指的是加工时先在工件上试切，根据测得的尺寸与要求尺寸的差值，用进给机构调整刀具与工件的相对位置，然后进行试切、测量、调整，直至符合规定的尺寸要求。此后再正式切削出整个待加工表面。\n试切法调整引起调整误差的因素有以下三方面：测量误差、机床进给机构的位移误差、试切时与正式切削时切削层厚度不同的影响。\n测量误差指量具本身的精度、测量方法或使用条件下的误差（如温度影响、操作者的细心程度）等，它们都能影响调整精度，因而产生加工误差。\n当试切最后一刀时，往往要按刻度盘的显示值来微量调整刀架的进给量，这时常会出现进给机构的 “爬行”现象，结果使刀具的实际位移与刻度盘显示值不一致，造成加工误差。\n不同材料的刀具的刃口半径是不同的，也就是说，切削加工中切削刃所能切除的最小切削层厚度是有一定限度的。\n切削厚度过小时，切削刃就会在切削表面上打滑，切不下金属。\n精加工时，试切的最后一刀往往很薄，而正式切削时的背吃刀量一般要大于试切部分，所以与试切时的最后一刀相比，切削刃不容易打滑，实际切深就大一些，因此工件尺寸就与试切部分不同；\n粗加工时，试切的最后一刀切削层厚度还较大，切削刃不会打滑，但正式切削时，背吃刀量更大，受力变形也大得多，因此正式切削时切除的金属层厚度就会比试切时小一些，故同样会引起工件的尺寸误差。\n与采用样件（或样板）调整相比，采用试切调整比较符合实际加工情况，故可得到较高的加工精度，但调整费时。\n因此实际使用时可先根据样件（或样板）进行初调，然后试切若干工件，再据之做精确微调。这样既缩短了调整时间，又可得到较高的加工精度。\n在大批大量生产中广泛采用行程挡块、靠模、凸轮等机构来保证加工尺寸。\n采用行程挡块、靠模、凸轮等机构来保证加工尺寸时，这些定程机构的制造精度与调整，以及与它们配合使用的离合器、电气开关、控制阀等的灵敏度就成为调整误差的主要来源。\n样件或样板的误差包括样件或样板的制造误差、样件或样板的安装误差和对刀误差。这些也是影响调整精度的重要因素。\n试切加工的工件的平均尺寸与总体尺寸不可能完全符合，因而造成误差。\n引起机床误差的原因是机床的制造误差、安装误差和磨损。\n导轨导向误差、 主轴回转误差和传动链的传动误差对工件加工精度影响较大。\n导轨导向精度是指机床导轨副的运动件实际运动方向与理想运动方向的符合程度，这两者之间的偏差值称为导向误差。\n导轨是机床中确定主要部件相对位置的基准，也是运动的基准，它的各项误差都直接影响被加工工件的精度。\n在机床的精度标准中，直线导轨的导向精度一般包括导轨在水平面内的直线度、导轨在垂直面内的直线度、前后导轨的平行度和导轨对主轴回转轴线的平行度（或垂直度）。\n车床上车削圆柱面时，误差的敏感方向在水平方向。\n刨床的误差敏感方向为垂直方向。\n因此，刨床床身导轨在垂直平面内的直线度误差影响较大，它引起加工表面的直线度及平面度误差。\n镗床误差敏感方向是随主轴回转而变化的，故导轨在水平面及垂直面内的直线度误差均直接影响加工精度。\n在普通镗床上镗孔时，如果以镗刀杆为进给方式进行镗削，那么导轨不直、扭曲或者与镗杆轴线不平行等误差，都会引起所镗出的孔与其基准的相互位置误差，而不会产生孔的形状误差。\n如果工作台进给，那么导轨不直或扭曲，都会引起所加工孔的轴线不直。\n当导轨与主轴回转轴线不平行时，则镗出的孔呈椭圆形。\n机床安装不正确引起的导轨误差，往往远大于制造误差。\n特别是长度较长的龙门刨床、 龙门\n铁床和导轨磨床等，它们的床身导轨是细长的结构，刚性较差，在本身自重的作用下就容易变形。\n如果床身导轨安装不正确，或者地基不良，更易造成导轨弯曲变形。\n导轨磨损是造成导轨误差的另一重要原因。\n由于使用程度不同及受力不均，机床使用一段时间后，导轨沿全长上各段的磨损量不等，并且在同一横截面上各导轨面的磨损量也不相等。\n导轨磨损会引起床鞍在水平面和垂直面内发生位移，且有倾斜，从而造成切削刃位置误差。\n机床导轨副的磨损与工作的连续性、负荷特性、工作条件、导轨的材质和结构等有关。\n影响导轨导向精度的因素还有加工过程中力、热等方面的原因。\n为了减小导向误差对加工精度的影响，机床设计与制造时，应从结构、材料、润滑、防护装置等方面采取措施，以提高导向精度；机床安装时，应校正好水平和保证地基质量；使用时，要注意调整导轨配合间隙，同时保证良好的润滑和维护。\n机床主轴是用来装夹工件或刀具并传递主要切削运动的重要零件。\n机床主轴的回转精度是机床精度的一项重要指标，主要影响零件加工表面的几何形状精度、位置精度和表面粗糙度。\n所谓主轴回转误差，是指主轴实际回转轴线对其理想回转轴线的漂移。\n理想回转轴线虽然客观存在，但却无法确定其位置，因此通常是以平均回转轴线（即主轴各瞬时回转轴线的平均位置）来代替。\n主轴回转轴线的运动误差可以分解为径向圆跳动、轴向圆跳动和倾角摆动三种基本形式。\n径向圆跳动它是主轴回转轴线相对于平均回转轴线在径向的变动量。\n轴向圆跳动它是主轴回转轴线沿平均回转轴线方向的变动量。\n倾角摆动主轴回转轴线相对平均回转轴线成一倾斜角度的运动。\n主轴的轴向圆跳动对圆柱面的加工精度没有影响，但在加工端面时，会使车出的端面与圆柱面不垂直。\n如果主轴回转一周来回跳动一次，则加工出的端面近似为螺旋面：向前跳动的半周形成右螺旋面，向后跳动的半周形成左螺旋面。\n端面对轴线的垂直度误差随切削半径的减小而增大。\n加工螺纹时，主轴的轴向圆跳动将使螺距产生周期误差。\n主轴的径向圆跳动会使工件产生圆度误差，但加工方法不同，影响程度也不尽相同。\n一般精密车床的主轴径向圆跳动误差应控制在5μm以内。\n实际上主轴工作时其回转轴线的漂移运动总是径向圆跳动、轴向圆跳动和倾角摆动三种形式的误差运动的合成，故不同横截面内轴心的误差运动轨迹既不相同，又不相似，既影响所加工工件圆柱面的形状精度，又影响端面的形状精度。\n引起主轴回转轴线漂移的原因主要是：轴承的误差、轴承间隙、与轴承配合零件的误差及主轴系统的径向不等刚度和热变形。主轴转速对主轴回轴误差也有影响。\n主轴采用滑动轴承时，轴承误差主要是指主轴颈和轴承内孔的圆度误差和波纹度。\n若采用多油楔轴承，则影响主轴回转精度的主要是轴颈的圆度。\n由于动压轴承必须在一定运转速度下才能建立起压力油膜，因此主轴起动和停止过程中轴线都会发生漂移。\n滚动轴承内圈滚道圆度对工件回转类机床的主轴回转精度影响较大，主轴每回转一周，径向圆跳动两次。\n外圈滚道圆度对刀具回转类机床的主轴回转精度影响较大，主轴每回转一周，径向圆跳动一次。\n滚动轴承的内、外圈滚道的波纹度，不管是工件回转类机床还是刀具回转类机床，主轴回转时都将产生高频径向圆跳动。\n滚动轴承滚动体的尺寸误差会引起主轴回转的径向圆跳动。\n最大的滚动体通过承载区一次，就会使主轴回转轴线发生一次最大的径向圆跳动。\n回转轴线的跳动周期与保持架的转速有关。由于保持架的转速近似为主轴转速的1\/2，所以主轴每回转两周，主轴轴线就径向圆跳动一次。\n推力轴承滚道端面误差会造成主轴的轴向圆跳动。\n圆锥滚子轴承、角接触球轴承的内、外滚道的倾斜既会造成主轴的轴向圆跳动，又会引起径向圆跳动和倾角摆动。\n轴承间隙的影响主轴轴承间隙对回转精度也有影响。\n轴承间隙过大，会使主轴工作时油膜厚度增大，油膜承载能力降低，当工作条件（载荷、转速等）变化时，油楔厚度变化较大，主轴轴线漂移量增大。\n由于轴承内、外圈或轴瓦很薄，受力后容易变形，因此与之相配合的轴颈或箱体支承孔的圆度误差，会使轴承圈或轴瓦发生变形而产生圆度误差。\n与轴承圈端面配合的零件如轴肩、过渡套、轴承端盖、螺母等的有关端面，如果有平面度误差或与主轴回转轴线不垂直，会使轴承圈滚道倾斜，造成主轴回转轴线的径向、轴向漂移。\n箱体前、后支承孔、主轴前、后支承轴颈的同轴度会使轴承内、外圈滚道相对倾斜，同样也会引起主轴回转轴线的漂移。\n提高与轴承相配合零件的制造精度和装配质量，对提高主轴回转精度有很密切的关系。\n由于主轴部件质量不平衡、机床各种随机振动以及回转轴线的不稳定都会随主轴转速增加而增加，使主轴在某个转速范围内的回转精度较高，超过这个范围时，误差就会增大。\n主轴系统的刚度，在不同方向上往往不等，当主轴上所受外力方向随主轴回转而变化时，就会因变形不一致而使主轴轴线漂移。\n机床工作时，主轴系统的温度将升高，使主轴轴向膨胀和径向位移。\n由于轴承径向热变形不相等，前、后轴承的热变形也不相同，在装卸工件和进行测量时，主轴必须停车而使温度发生变化，这些都会引起主轴回转轴线的位置变化和漂移而影响主轴的回转精度。\n影响主轴回转精度的因素主要有轴承误差、轴承间隙、与轴承配合的零件的误差、主轴转速和主轴的径向不等刚度及热变形。\n提高主轴回转精度的措施主要有提高主轴部件的制造精度、对滚动轴承进行预紧、使主轴的回转误差不反映到工件上。\n提高主轴部件的制造精度首先应提髙轴承的回转精度，如选用髙精度的滚动轴承，或采用高精度的多油楔动压轴承和静压轴承；\n提高主轴部件的制造精度其次是提高箱体支承孔、主轴轴颈和与轴承相配合零件的有关表面的加工精度；\n提高主轴部件的制造精度还可在装配时先测出滚动轴承及主轴锥孔的径向圆跳动，然后调节径向圆跳动的方位，使误差互补或抵消，以减少轴承误差对主轴回转精度的影响。\n对滚动轴承适当预紧以消除间隙，甚至产生微量过盈。滚动轴承预紧使得轴承内、外圈和滚动体弹性变形的相互制约，既增加了轴承刚度，又对轴承内、外圈滚道和滚动体的误差起均化作用，因而可提高主轴的回转精度。\n直接保证工件在加工过程中的回转精度而不依赖于主轴，是保证工件形状精度的最简单而又有效的方法。\n在外圆磨床上磨削外圆柱面时，工件采用两个固定顶尖支承，主轴只起传动作用，工件的回转精度完全取决于顶尖和中心孔的形状误差和同轴度误差，而提高顶尖和中心孔的精度要比提高主轴部件的精度容易且经济得多。\n在镗床上加工箱体类零件上的孔时，可采用前、后导向套的镗模，刀杆与主轴浮动联接，所以刀杆的回转精度与机床主轴回转精度也无关，仅由刀杆和导套的配合质量决定。\n",
+  "entities": [
+    {
+      "id": 833,
+      "label": "criteria",
+      "start_offset": 10,
+      "end_offset": 16
+    },
+    {
+      "id": 834,
+      "label": "criteria",
+      "start_offset": 21,
+      "end_offset": 28
+    },
+    {
+      "id": 835,
+      "label": "tolerance",
+      "start_offset": 30,
+      "end_offset": 39
+    },
+    {
+      "id": 836,
+      "label": "tolerance",
+      "start_offset": 40,
+      "end_offset": 46
+    },
+    {
+      "id": 837,
+      "label": "tolerance",
+      "start_offset": 52,
+      "end_offset": 58
+    },
+    {
+      "id": 838,
+      "label": "measure",
+      "start_offset": 66,
+      "end_offset": 72
+    },
+    {
+      "id": 839,
+      "label": "measure",
+      "start_offset": 73,
+      "end_offset": 87
+    },
+    {
+      "id": 840,
+      "label": "measure",
+      "start_offset": 73,
+      "end_offset": 75
+    },
+    {
+      "id": 841,
+      "label": "measure",
+      "start_offset": 76,
+      "end_offset": 78
+    },
+    {
+      "id": 842,
+      "label": "measure",
+      "start_offset": 79,
+      "end_offset": 87
+    },
+    {
+      "id": 843,
+      "label": "measure",
+      "start_offset": 89,
+      "end_offset": 95
+    },
+    {
+      "id": 844,
+      "label": "definition",
+      "start_offset": 60,
+      "end_offset": 100
+    },
+    {
+      "id": 845,
+      "label": "tolerance",
+      "start_offset": 117,
+      "end_offset": 121
+    },
+    {
+      "id": 846,
+      "label": "definition",
+      "start_offset": 122,
+      "end_offset": 163
+    },
+    {
+      "id": 847,
+      "label": "measure",
+      "start_offset": 129,
+      "end_offset": 135
+    },
+    {
+      "id": 848,
+      "label": "measure",
+      "start_offset": 136,
+      "end_offset": 150
+    },
+    {
+      "id": 849,
+      "label": "measure",
+      "start_offset": 136,
+      "end_offset": 138
+    },
+    {
+      "id": 850,
+      "label": "measure",
+      "start_offset": 139,
+      "end_offset": 141
+    },
+    {
+      "id": 851,
+      "label": "measure",
+      "start_offset": 142,
+      "end_offset": 150
+    },
+    {
+      "id": 852,
+      "label": "measure",
+      "start_offset": 152,
+      "end_offset": 158
+    },
+    {
+      "id": 853,
+      "label": "tolerance",
+      "start_offset": 165,
+      "end_offset": 169
+    },
+    {
+      "id": 854,
+      "label": "tolerance",
+      "start_offset": 170,
+      "end_offset": 174
+    },
+    {
+      "id": 855,
+      "label": "measure",
+      "start_offset": 186,
+      "end_offset": 195
+    },
+    {
+      "id": 856,
+      "label": "tolerance",
+      "start_offset": 197,
+      "end_offset": 205
+    },
+    {
+      "id": 857,
+      "label": "tolerance",
+      "start_offset": 209,
+      "end_offset": 217
+    },
+    {
+      "id": 858,
+      "label": "condition",
+      "start_offset": 225,
+      "end_offset": 236
+    },
+    {
+      "id": 859,
+      "label": "condition",
+      "start_offset": 242,
+      "end_offset": 253
+    },
+    {
+      "id": 860,
+      "label": "tolerance",
+      "start_offset": 255,
+      "end_offset": 262
+    },
+    {
+      "id": 861,
+      "label": "tolerance",
+      "start_offset": 269,
+      "end_offset": 273
+    },
+    {
+      "id": 862,
+      "label": "tolerance",
+      "start_offset": 274,
+      "end_offset": 278
+    },
+    {
+      "id": 863,
+      "label": "tolerance",
+      "start_offset": 279,
+      "end_offset": 283
+    },
+    {
+      "id": 864,
+      "label": "tolerance",
+      "start_offset": 298,
+      "end_offset": 302
+    },
+    {
+      "id": 865,
+      "label": "tolerance",
+      "start_offset": 306,
+      "end_offset": 310
+    },
+    {
+      "id": 866,
+      "label": "tolerance",
+      "start_offset": 314,
+      "end_offset": 318
+    },
+    {
+      "id": 867,
+      "label": "tolerance",
+      "start_offset": 324,
+      "end_offset": 328
+    },
+    {
+      "id": 868,
+      "label": "tolerance",
+      "start_offset": 333,
+      "end_offset": 337
+    },
+    {
+      "id": 869,
+      "label": "tolerance",
+      "start_offset": 345,
+      "end_offset": 349
+    },
+    {
+      "id": 870,
+      "label": "tolerance",
+      "start_offset": 350,
+      "end_offset": 354
+    },
+    {
+      "id": 871,
+      "label": "tolerance",
+      "start_offset": 360,
+      "end_offset": 364
+    },
+    {
+      "id": 872,
+      "label": "tolerance",
+      "start_offset": 372,
+      "end_offset": 376
+    },
+    {
+      "id": 873,
+      "label": "tolerance",
+      "start_offset": 377,
+      "end_offset": 381
+    },
+    {
+      "id": 874,
+      "label": "condition",
+      "start_offset": 412,
+      "end_offset": 421
+    },
+    {
+      "id": 875,
+      "label": "condition",
+      "start_offset": 422,
+      "end_offset": 431
+    },
+    {
+      "id": 876,
+      "label": "condition",
+      "start_offset": 432,
+      "end_offset": 442
+    },
+    {
+      "id": 877,
+      "label": "condition",
+      "start_offset": 452,
+      "end_offset": 456
+    },
+    {
+      "id": 878,
+      "label": "condition",
+      "start_offset": 458,
+      "end_offset": 462
+    },
+    {
+      "id": 879,
+      "label": "procedure",
+      "start_offset": 468,
+      "end_offset": 472
+    },
+    {
+      "id": 880,
+      "label": "condition",
+      "start_offset": 496,
+      "end_offset": 501
+    },
+    {
+      "id": 881,
+      "label": "condition",
+      "start_offset": 502,
+      "end_offset": 506
+    },
+    {
+      "id": 882,
+      "label": "measure",
+      "start_offset": 518,
+      "end_offset": 520
+    },
+    {
+      "id": 883,
+      "label": "measure",
+      "start_offset": 521,
+      "end_offset": 525
+    },
+    {
+      "id": 884,
+      "label": "measure",
+      "start_offset": 526,
+      "end_offset": 533
+    },
+    {
+      "id": 885,
+      "label": "condition",
+      "start_offset": 515,
+      "end_offset": 536
+    },
+    {
+      "id": 886,
+      "label": "condition",
+      "start_offset": 548,
+      "end_offset": 568
+    },
+    {
+      "id": 887,
+      "label": "part",
+      "start_offset": 548,
+      "end_offset": 550
+    },
+    {
+      "id": 888,
+      "label": "tool",
+      "start_offset": 551,
+      "end_offset": 553
+    },
+    {
+      "id": 889,
+      "label": "procedure",
+      "start_offset": 554,
+      "end_offset": 560
+    },
+    {
+      "id": 890,
+      "label": "location",
+      "start_offset": 561,
+      "end_offset": 568
+    },
+    {
+      "id": 891,
+      "label": "tool",
+      "start_offset": 570,
+      "end_offset": 572
+    },
+    {
+      "id": 892,
+      "label": "tool",
+      "start_offset": 573,
+      "end_offset": 575
+    },
+    {
+      "id": 893,
+      "label": "tool",
+      "start_offset": 579,
+      "end_offset": 581
+    },
+    {
+      "id": 894,
+      "label": "tool",
+      "start_offset": 582,
+      "end_offset": 584
+    },
+    {
+      "id": 895,
+      "label": "condition",
+      "start_offset": 589,
+      "end_offset": 597
+    },
+    {
+      "id": 896,
+      "label": "tool",
+      "start_offset": 609,
+      "end_offset": 611
+    },
+    {
+      "id": 897,
+      "label": "tool",
+      "start_offset": 589,
+      "end_offset": 591
+    },
+    {
+      "id": 898,
+      "label": "tool",
+      "start_offset": 592,
+      "end_offset": 594
+    },
+    {
+      "id": 899,
+      "label": "tool",
+      "start_offset": 612,
+      "end_offset": 614
+    },
+    {
+      "id": 900,
+      "label": "tool",
+      "start_offset": 615,
+      "end_offset": 617
+    },
+    {
+      "id": 901,
+      "label": "tool",
+      "start_offset": 618,
+      "end_offset": 620
+    },
+    {
+      "id": 902,
+      "label": "procedure",
+      "start_offset": 635,
+      "end_offset": 639
+    },
+    {
+      "id": 903,
+      "label": "condition",
+      "start_offset": 641,
+      "end_offset": 647
+    },
+    {
+      "id": 904,
+      "label": "condition",
+      "start_offset": 654,
+      "end_offset": 663
+    },
+    {
+      "id": 905,
+      "label": "tolerance",
+      "start_offset": 665,
+      "end_offset": 675
+    },
+    {
+      "id": 906,
+      "label": "tolerance",
+      "start_offset": 699,
+      "end_offset": 703
+    },
+    {
+      "id": 907,
+      "label": "tolerance",
+      "start_offset": 705,
+      "end_offset": 712
+    },
+    {
+      "id": 908,
+      "label": "tolerance",
+      "start_offset": 723,
+      "end_offset": 727
+    },
+    {
+      "id": 909,
+      "label": "tolerance",
+      "start_offset": 740,
+      "end_offset": 747
+    },
+    {
+      "id": 910,
+      "label": "tolerance",
+      "start_offset": 750,
+      "end_offset": 754
+    },
+    {
+      "id": 911,
+      "label": "part",
+      "start_offset": 756,
+      "end_offset": 758
+    },
+    {
+      "id": 912,
+      "label": "tolerance",
+      "start_offset": 770,
+      "end_offset": 774
+    },
+    {
+      "id": 913,
+      "label": "procedure",
+      "start_offset": 759,
+      "end_offset": 763
+    },
+    {
+      "id": 914,
+      "label": "procedure",
+      "start_offset": 780,
+      "end_offset": 784
+    },
+    {
+      "id": 915,
+      "label": "condition",
+      "start_offset": 780,
+      "end_offset": 796
+    },
+    {
+      "id": 916,
+      "label": "tool",
+      "start_offset": 799,
+      "end_offset": 803
+    },
+    {
+      "id": 917,
+      "label": "part",
+      "start_offset": 805,
+      "end_offset": 807
+    },
+    {
+      "id": 918,
+      "label": "feature",
+      "start_offset": 808,
+      "end_offset": 810
+    },
+    {
+      "id": 919,
+      "label": "feature",
+      "start_offset": 812,
+      "end_offset": 814
+    },
+    {
+      "id": 920,
+      "label": "reference",
+      "start_offset": 815,
+      "end_offset": 819
+    },
+    {
+      "id": 921,
+      "label": "tool",
+      "start_offset": 821,
+      "end_offset": 823
+    },
+    {
+      "id": 922,
+      "label": "tool",
+      "start_offset": 829,
+      "end_offset": 832
+    },
+    {
+      "id": 923,
+      "label": "procedure",
+      "start_offset": 835,
+      "end_offset": 838
+    },
+    {
+      "id": 924,
+      "label": "feature",
+      "start_offset": 839,
+      "end_offset": 841
+    },
+    {
+      "id": 925,
+      "label": "reference",
+      "start_offset": 843,
+      "end_offset": 847
+    },
+    {
+      "id": 926,
+      "label": "condition",
+      "start_offset": 848,
+      "end_offset": 856
+    },
+    {
+      "id": 927,
+      "label": "location",
+      "start_offset": 859,
+      "end_offset": 864
+    },
+    {
+      "id": 928,
+      "label": "part",
+      "start_offset": 859,
+      "end_offset": 861
+    },
+    {
+      "id": 929,
+      "label": "reference",
+      "start_offset": 874,
+      "end_offset": 878
+    },
+    {
+      "id": 930,
+      "label": "reference",
+      "start_offset": 883,
+      "end_offset": 887
+    },
+    {
+      "id": 931,
+      "label": "location",
+      "start_offset": 879,
+      "end_offset": 881
+    },
+    {
+      "id": 932,
+      "label": "location",
+      "start_offset": 888,
+      "end_offset": 892
+    },
+    {
+      "id": 933,
+      "label": "reference",
+      "start_offset": 899,
+      "end_offset": 903
+    },
+    {
+      "id": 934,
+      "label": "feature",
+      "start_offset": 904,
+      "end_offset": 909
+    },
+    {
+      "id": 935,
+      "label": "tool",
+      "start_offset": 910,
+      "end_offset": 913
+    },
+    {
+      "id": 936,
+      "label": "feature",
+      "start_offset": 914,
+      "end_offset": 916
+    },
+    {
+      "id": 937,
+      "label": "condition",
+      "start_offset": 899,
+      "end_offset": 921
+    },
+    {
+      "id": 938,
+      "label": "tolerance",
+      "start_offset": 925,
+      "end_offset": 929
+    },
+    {
+      "id": 939,
+      "label": "condition",
+      "start_offset": 874,
+      "end_offset": 896
+    },
+    {
+      "id": 940,
+      "label": "condition",
+      "start_offset": 935,
+      "end_offset": 940
+    },
+    {
+      "id": 941,
+      "label": "tolerance",
+      "start_offset": 944,
+      "end_offset": 948
+    },
+    {
+      "id": 942,
+      "label": "tolerance",
+      "start_offset": 959,
+      "end_offset": 966
+    },
+    {
+      "id": 943,
+      "label": "tool",
+      "start_offset": 978,
+      "end_offset": 980
+    },
+    {
+      "id": 944,
+      "label": "tool",
+      "start_offset": 981,
+      "end_offset": 983
+    },
+    {
+      "id": 945,
+      "label": "tool",
+      "start_offset": 984,
+      "end_offset": 986
+    },
+    {
+      "id": 946,
+      "label": "tool",
+      "start_offset": 1035,
+      "end_offset": 1037
+    },
+    {
+      "id": 947,
+      "label": "approach",
+      "start_offset": 1003,
+      "end_offset": 1007
+    },
+    {
+      "id": 948,
+      "label": "approach",
+      "start_offset": 993,
+      "end_offset": 995
+    },
+    {
+      "id": 949,
+      "label": "part",
+      "start_offset": 1011,
+      "end_offset": 1013
+    },
+    {
+      "id": 950,
+      "label": "tool",
+      "start_offset": 1014,
+      "end_offset": 1016
+    },
+    {
+      "id": 951,
+      "label": "tool",
+      "start_offset": 1048,
+      "end_offset": 1051
+    },
+    {
+      "id": 953,
+      "label": "part",
+      "start_offset": 1052,
+      "end_offset": 1054
+    },
+    {
+      "id": 954,
+      "label": "tolerance",
+      "start_offset": 1048,
+      "end_offset": 1057
+    },
+    {
+      "id": 955,
+      "label": "approach",
+      "start_offset": 1063,
+      "end_offset": 1067
+    },
+    {
+      "id": 956,
+      "label": "approach",
+      "start_offset": 1048,
+      "end_offset": 1060
+    },
+    {
+      "id": 957,
+      "label": "tool",
+      "start_offset": 1070,
+      "end_offset": 1072
+    },
+    {
+      "id": 958,
+      "label": "tool",
+      "start_offset": 1072,
+      "end_offset": 1075
+    },
+    {
+      "id": 959,
+      "label": "tool",
+      "start_offset": 1070,
+      "end_offset": 1075
+    },
+    {
+      "id": 960,
+      "label": "measure",
+      "start_offset": 1076,
+      "end_offset": 1080
+    },
+    {
+      "id": 961,
+      "label": "approach",
+      "start_offset": 1068,
+      "end_offset": 1080
+    },
+    {
+      "id": 962,
+      "label": "condition",
+      "start_offset": 1082,
+      "end_offset": 1088
+    },
+    {
+      "id": 963,
+      "label": "tolerance",
+      "start_offset": 1109,
+      "end_offset": 1113
+    },
+    {
+      "id": 964,
+      "label": "condition",
+      "start_offset": 1094,
+      "end_offset": 1103
+    },
+    {
+      "id": 965,
+      "label": "tool",
+      "start_offset": 1116,
+      "end_offset": 1118
+    },
+    {
+      "id": 966,
+      "label": "tool",
+      "start_offset": 1119,
+      "end_offset": 1121
+    },
+    {
+      "id": 967,
+      "label": "tool",
+      "start_offset": 1122,
+      "end_offset": 1124
+    },
+    {
+      "id": 968,
+      "label": "tolerance",
+      "start_offset": 1127,
+      "end_offset": 1131
+    },
+    {
+      "id": 969,
+      "label": "tolerance",
+      "start_offset": 1150,
+      "end_offset": 1159
+    },
+    {
+      "id": 970,
+      "label": "tolerance",
+      "start_offset": 1144,
+      "end_offset": 1148
+    },
+    {
+      "id": 971,
+      "label": "tool",
+      "start_offset": 1172,
+      "end_offset": 1175
+    },
+    {
+      "id": 972,
+      "label": "tool",
+      "start_offset": 1176,
+      "end_offset": 1179
+    },
+    {
+      "id": 973,
+      "label": "tool",
+      "start_offset": 1180,
+      "end_offset": 1182
+    },
+    {
+      "id": 974,
+      "label": "condition",
+      "start_offset": 1188,
+      "end_offset": 1205
+    },
+    {
+      "id": 975,
+      "label": "condition",
+      "start_offset": 1193,
+      "end_offset": 1197
+    },
+    {
+      "id": 976,
+      "label": "condition",
+      "start_offset": 1198,
+      "end_offset": 1202
+    },
+    {
+      "id": 977,
+      "label": "condition",
+      "start_offset": 1203,
+      "end_offset": 1205
+    },
+    {
+      "id": 978,
+      "label": "condition",
+      "start_offset": 1164,
+      "end_offset": 1182
+    },
+    {
+      "id": 979,
+      "label": "location",
+      "start_offset": 1220,
+      "end_offset": 1232
+    },
+    {
+      "id": 980,
+      "label": "definition",
+      "start_offset": 1244,
+      "end_offset": 1257
+    },
+    {
+      "id": 981,
+      "label": "tolerance",
+      "start_offset": 1259,
+      "end_offset": 1267
+    },
+    {
+      "id": 982,
+      "label": "condition",
+      "start_offset": 1269,
+      "end_offset": 1288
+    },
+    {
+      "id": 983,
+      "label": "tolerance",
+      "start_offset": 1291,
+      "end_offset": 1295
+    },
+    {
+      "id": 984,
+      "label": "tolerance",
+      "start_offset": 1310,
+      "end_offset": 1314
+    },
+    {
+      "id": 985,
+      "label": "definition",
+      "start_offset": 1315,
+      "end_offset": 1330
+    },
+    {
+      "id": 986,
+      "label": "tolerance",
+      "start_offset": 1332,
+      "end_offset": 1347
+    },
+    {
+      "id": 988,
+      "label": "tolerance",
+      "start_offset": 1350,
+      "end_offset": 1365
+    },
+    {
+      "id": 989,
+      "label": "tolerance",
+      "start_offset": 1350,
+      "end_offset": 1356
+    },
+    {
+      "id": 990,
+      "label": "tolerance",
+      "start_offset": 1367,
+      "end_offset": 1379
+    },
+    {
+      "id": 991,
+      "label": "tolerance",
+      "start_offset": 1382,
+      "end_offset": 1394
+    },
+    {
+      "id": 992,
+      "label": "tolerance",
+      "start_offset": 1382,
+      "end_offset": 1388
+    },
+    {
+      "id": 993,
+      "label": "procedure",
+      "start_offset": 1402,
+      "end_offset": 1406
+    },
+    {
+      "id": 994,
+      "label": "procedure",
+      "start_offset": 1407,
+      "end_offset": 1415
+    },
+    {
+      "id": 995,
+      "label": "procedure",
+      "start_offset": 1417,
+      "end_offset": 1421
+    },
+    {
+      "id": 996,
+      "label": "procedure",
+      "start_offset": 1422,
+      "end_offset": 1425
+    },
+    {
+      "id": 997,
+      "label": "condition",
+      "start_offset": 1399,
+      "end_offset": 1444
+    },
+    {
+      "id": 998,
+      "label": "condition",
+      "start_offset": 1449,
+      "end_offset": 1453
+    },
+    {
+      "id": 999,
+      "label": "condition",
+      "start_offset": 1456,
+      "end_offset": 1460
+    },
+    {
+      "id": 1000,
+      "label": "approach",
+      "start_offset": 1469,
+      "end_offset": 1476
+    },
+    {
+      "id": 1001,
+      "label": "tolerance",
+      "start_offset": 1485,
+      "end_offset": 1491
+    },
+    {
+      "id": 1002,
+      "label": "definition",
+      "start_offset": 1497,
+      "end_offset": 1512
+    },
+    {
+      "id": 1003,
+      "label": "tolerance",
+      "start_offset": 1514,
+      "end_offset": 1518
+    },
+    {
+      "id": 1004,
+      "label": "procedure",
+      "start_offset": 1520,
+      "end_offset": 1526
+    },
+    {
+      "id": 1005,
+      "label": "tolerance",
+      "start_offset": 1532,
+      "end_offset": 1536
+    },
+    {
+      "id": 1006,
+      "label": "tool",
+      "start_offset": 1542,
+      "end_offset": 1544
+    },
+    {
+      "id": 1007,
+      "label": "part",
+      "start_offset": 1545,
+      "end_offset": 1547
+    },
+    {
+      "id": 1008,
+      "label": "condition",
+      "start_offset": 1528,
+      "end_offset": 1559
+    },
+    {
+      "id": 1009,
+      "label": "tolerance",
+      "start_offset": 1562,
+      "end_offset": 1566
+    },
+    {
+      "id": 1010,
+      "label": "tolerance",
+      "start_offset": 1573,
+      "end_offset": 1577
+    },
+    {
+      "id": 1011,
+      "label": "tolerance",
+      "start_offset": 1591,
+      "end_offset": 1595
+    },
+    {
+      "id": 1014,
+      "label": "location",
+      "start_offset": 1598,
+      "end_offset": 1604
+    },
+    {
+      "id": 1015,
+      "label": "tolerance",
+      "start_offset": 1613,
+      "end_offset": 1617
+    },
+    {
+      "id": 1016,
+      "label": "tolerance",
+      "start_offset": 1618,
+      "end_offset": 1622
+    },
+    {
+      "id": 1017,
+      "label": "condition",
+      "start_offset": 1631,
+      "end_offset": 1647
+    },
+    {
+      "id": 1018,
+      "label": "condition",
+      "start_offset": 1649,
+      "end_offset": 1659
+    },
+    {
+      "id": 1019,
+      "label": "condition",
+      "start_offset": 1662,
+      "end_offset": 1679
+    },
+    {
+      "id": 1020,
+      "label": "condition",
+      "start_offset": 1680,
+      "end_offset": 1689
+    },
+    {
+      "id": 1021,
+      "label": "condition",
+      "start_offset": 1691,
+      "end_offset": 1707
+    },
+    {
+      "id": 1022,
+      "label": "condition",
+      "start_offset": 1708,
+      "end_offset": 1717
+    },
+    {
+      "id": 1023,
+      "label": "tolerance",
+      "start_offset": 1732,
+      "end_offset": 1736
+    },
+    {
+      "id": 1024,
+      "label": "location",
+      "start_offset": 1662,
+      "end_offset": 1668
+    },
+    {
+      "id": 1025,
+      "label": "location",
+      "start_offset": 1631,
+      "end_offset": 1637
+    },
+    {
+      "id": 1026,
+      "label": "tolerance",
+      "start_offset": 1650,
+      "end_offset": 1654
+    },
+    {
+      "id": 1027,
+      "label": "tolerance",
+      "start_offset": 1683,
+      "end_offset": 1687
+    },
+    {
+      "id": 1028,
+      "label": "location",
+      "start_offset": 1691,
+      "end_offset": 1695
+    },
+    {
+      "id": 1029,
+      "label": "location",
+      "start_offset": 1697,
+      "end_offset": 1706
+    },
+    {
+      "id": 1030,
+      "label": "location",
+      "start_offset": 1670,
+      "end_offset": 1678
+    },
+    {
+      "id": 1031,
+      "label": "location",
+      "start_offset": 1638,
+      "end_offset": 1644
+    },
+    {
+      "id": 1032,
+      "label": "tolerance",
+      "start_offset": 1711,
+      "end_offset": 1715
+    },
+    {
+      "id": 1034,
+      "label": "tolerance",
+      "start_offset": 1737,
+      "end_offset": 1741
+    },
+    {
+      "id": 1035,
+      "label": "definition",
+      "start_offset": 1748,
+      "end_offset": 1777
+    },
+    {
+      "id": 1036,
+      "label": "location",
+      "start_offset": 1780,
+      "end_offset": 1787
+    },
+    {
+      "id": 1037,
+      "label": "tool",
+      "start_offset": 1766,
+      "end_offset": 1769
+    },
+    {
+      "id": 1038,
+      "label": "location",
+      "start_offset": 1770,
+      "end_offset": 1777
+    },
+    {
+      "id": 1039,
+      "label": "tolerance",
+      "start_offset": 1749,
+      "end_offset": 1753
+    },
+    {
+      "id": 1040,
+      "label": "approach",
+      "start_offset": 1789,
+      "end_offset": 1798
+    },
+    {
+      "id": 1041,
+      "label": "approach",
+      "start_offset": 1805,
+      "end_offset": 1811
+    },
+    {
+      "id": 1042,
+      "label": "approach",
+      "start_offset": 1812,
+      "end_offset": 1817
+    },
+    {
+      "id": 1043,
+      "label": "approach",
+      "start_offset": 1840,
+      "end_offset": 1846
+    },
+    {
+      "id": 1044,
+      "label": "definition",
+      "start_offset": 1847,
+      "end_offset": 1887
+    },
+    {
+      "id": 1045,
+      "label": "approach",
+      "start_offset": 1918,
+      "end_offset": 1923
+    },
+    {
+      "id": 1046,
+      "label": "definition",
+      "start_offset": 1924,
+      "end_offset": 1969
+    },
+    {
+      "id": 1047,
+      "label": "approach",
+      "start_offset": 1970,
+      "end_offset": 1975
+    },
+    {
+      "id": 1048,
+      "label": "criteria",
+      "start_offset": 1979,
+      "end_offset": 1983
+    },
+    {
+      "id": 1049,
+      "label": "tolerance",
+      "start_offset": 1985,
+      "end_offset": 1991
+    },
+    {
+      "id": 1050,
+      "label": "definition",
+      "start_offset": 1993,
+      "end_offset": 2022
+    },
+    {
+      "id": 1051,
+      "label": "tool",
+      "start_offset": 2025,
+      "end_offset": 2032
+    },
+    {
+      "id": 1052,
+      "label": "procedure",
+      "start_offset": 2033,
+      "end_offset": 2035
+    },
+    {
+      "id": 1053,
+      "label": "procedure",
+      "start_offset": 2033,
+      "end_offset": 2041
+    },
+    {
+      "id": 1054,
+      "label": "tool",
+      "start_offset": 2047,
+      "end_offset": 2050
+    },
+    {
+      "id": 1055,
+      "label": "approach",
+      "start_offset": 2054,
+      "end_offset": 2057
+    },
+    {
+      "id": 1056,
+      "label": "approach",
+      "start_offset": 2064,
+      "end_offset": 2067
+    },
+    {
+      "id": 1057,
+      "label": "definition",
+      "start_offset": 2070,
+      "end_offset": 2106
+    },
+    {
+      "id": 1058,
+      "label": "approach",
+      "start_offset": 2108,
+      "end_offset": 2111
+    },
+    {
+      "id": 1059,
+      "label": "definition",
+      "start_offset": 2113,
+      "end_offset": 2147
+    },
+    {
+      "id": 1060,
+      "label": "procedure",
+      "start_offset": 2150,
+      "end_offset": 2152
+    },
+    {
+      "id": 1061,
+      "label": "tool",
+      "start_offset": 2154,
+      "end_offset": 2158
+    },
+    {
+      "id": 1062,
+      "label": "tolerance",
+      "start_offset": 2203,
+      "end_offset": 2214
+    },
+    {
+      "id": 1063,
+      "label": "condition",
+      "start_offset": 2175,
+      "end_offset": 2199
+    },
+    {
+      "id": 1064,
+      "label": "condition",
+      "start_offset": 2217,
+      "end_offset": 2264
+    },
+    {
+      "id": 1065,
+      "label": "tolerance",
+      "start_offset": 2271,
+      "end_offset": 2277
+    },
+    {
+      "id": 1066,
+      "label": "procedure",
+      "start_offset": 2282,
+      "end_offset": 2292
+    },
+    {
+      "id": 1067,
+      "label": "tool",
+      "start_offset": 2282,
+      "end_offset": 2286
+    },
+    {
+      "id": 1068,
+      "label": "tool",
+      "start_offset": 2296,
+      "end_offset": 2303
+    },
+    {
+      "id": 1069,
+      "label": "tolerance",
+      "start_offset": 2309,
+      "end_offset": 2315
+    },
+    {
+      "id": 1070,
+      "label": "procedure",
+      "start_offset": 2317,
+      "end_offset": 2335
+    },
+    {
+      "id": 1071,
+      "label": "tolerance",
+      "start_offset": 2341,
+      "end_offset": 2347
+    },
+    {
+      "id": 1072,
+      "label": "condition",
+      "start_offset": 2351,
+      "end_offset": 2387
+    },
+    {
+      "id": 1073,
+      "label": "condition",
+      "start_offset": 2390,
+      "end_offset": 2400
+    },
+    {
+      "id": 1074,
+      "label": "tolerance",
+      "start_offset": 2405,
+      "end_offset": 2409
+    },
+    {
+      "id": 1075,
+      "label": "condition",
+      "start_offset": 2411,
+      "end_offset": 2418
+    },
+    {
+      "id": 1076,
+      "label": "approach",
+      "start_offset": 2427,
+      "end_offset": 2432
+    },
+    {
+      "id": 1077,
+      "label": "approach",
+      "start_offset": 2433,
+      "end_offset": 2436
+    },
+    {
+      "id": 1078,
+      "label": "condition",
+      "start_offset": 2454,
+      "end_offset": 2460
+    },
+    {
+      "id": 1079,
+      "label": "approach",
+      "start_offset": 2465,
+      "end_offset": 2468
+    },
+    {
+      "id": 1080,
+      "label": "approach",
+      "start_offset": 2472,
+      "end_offset": 2475
+    },
+    {
+      "id": 1081,
+      "label": "definition",
+      "start_offset": 2478,
+      "end_offset": 2547
+    },
+    {
+      "id": 1082,
+      "label": "part",
+      "start_offset": 2483,
+      "end_offset": 2485
+    },
+    {
+      "id": 1083,
+      "label": "measure",
+      "start_offset": 2491,
+      "end_offset": 2496
+    },
+    {
+      "id": 1084,
+      "label": "measure",
+      "start_offset": 2497,
+      "end_offset": 2501
+    },
+    {
+      "id": 1085,
+      "label": "tool",
+      "start_offset": 2506,
+      "end_offset": 2510
+    },
+    {
+      "id": 1086,
+      "label": "tool",
+      "start_offset": 2512,
+      "end_offset": 2514
+    },
+    {
+      "id": 1087,
+      "label": "tool",
+      "start_offset": 2515,
+      "end_offset": 2517
+    },
+    {
+      "id": 1088,
+      "label": "location",
+      "start_offset": 2518,
+      "end_offset": 2522
+    },
+    {
+      "id": 1089,
+      "label": "approach",
+      "start_offset": 2527,
+      "end_offset": 2529
+    },
+    {
+      "id": 1090,
+      "label": "approach",
+      "start_offset": 2530,
+      "end_offset": 2532
+    },
+    {
+      "id": 1091,
+      "label": "approach",
+      "start_offset": 2533,
+      "end_offset": 2535
+    },
+    {
+      "id": 1092,
+      "label": "procedure",
+      "start_offset": 2551,
+      "end_offset": 2555
+    },
+    {
+      "id": 1093,
+      "label": "approach",
+      "start_offset": 2565,
+      "end_offset": 2570
+    },
+    {
+      "id": 1094,
+      "label": "tolerance",
+      "start_offset": 2565,
+      "end_offset": 2576
+    },
+    {
+      "id": 1095,
+      "label": "tolerance",
+      "start_offset": 2586,
+      "end_offset": 2590
+    },
+    {
+      "id": 1096,
+      "label": "tolerance",
+      "start_offset": 2591,
+      "end_offset": 2602
+    },
+    {
+      "id": 1097,
+      "label": "tolerance",
+      "start_offset": 2603,
+      "end_offset": 2622
+    },
+    {
+      "id": 1098,
+      "label": "tolerance",
+      "start_offset": 2624,
+      "end_offset": 2628
+    },
+    {
+      "id": 1099,
+      "label": "definition",
+      "start_offset": 2629,
+      "end_offset": 2688
+    },
+    {
+      "id": 1100,
+      "label": "tolerance",
+      "start_offset": 2674,
+      "end_offset": 2678
+    },
+    {
+      "id": 1101,
+      "label": "condition",
+      "start_offset": 2725,
+      "end_offset": 2760
+    },
+    {
+      "id": 1102,
+      "label": "tolerance",
+      "start_offset": 2763,
+      "end_offset": 2767
+    },
+    {
+      "id": 1103,
+      "label": "tool",
+      "start_offset": 2774,
+      "end_offset": 2781
+    },
+    {
+      "id": 1104,
+      "label": "condition",
+      "start_offset": 2769,
+      "end_offset": 2785
+    },
+    {
+      "id": 1105,
+      "label": "condition",
+      "start_offset": 2791,
+      "end_offset": 2819
+    },
+    {
+      "id": 1106,
+      "label": "condition",
+      "start_offset": 2820,
+      "end_offset": 2826
+    },
+    {
+      "id": 1107,
+      "label": "condition",
+      "start_offset": 2828,
+      "end_offset": 2847
+    },
+    {
+      "id": 1108,
+      "label": "procedure",
+      "start_offset": 2849,
+      "end_offset": 2852
+    },
+    {
+      "id": 1109,
+      "label": "procedure",
+      "start_offset": 2867,
+      "end_offset": 2871
+    },
+    {
+      "id": 1110,
+      "label": "tool",
+      "start_offset": 2873,
+      "end_offset": 2877
+    },
+    {
+      "id": 1111,
+      "label": "tool",
+      "start_offset": 2901,
+      "end_offset": 2904
+    },
+    {
+      "id": 1112,
+      "label": "measure",
+      "start_offset": 2921,
+      "end_offset": 2925
+    },
+    {
+      "id": 1113,
+      "label": "procedure",
+      "start_offset": 2935,
+      "end_offset": 2938
+    },
+    {
+      "id": 1114,
+      "label": "measure",
+      "start_offset": 2947,
+      "end_offset": 2952
+    },
+    {
+      "id": 1115,
+      "label": "tool",
+      "start_offset": 2956,
+      "end_offset": 2959
+    },
+    {
+      "id": 1116,
+      "label": "procedure",
+      "start_offset": 2965,
+      "end_offset": 2969
+    },
+    {
+      "id": 1117,
+      "label": "tool",
+      "start_offset": 2971,
+      "end_offset": 2975
+    },
+    {
+      "id": 1118,
+      "label": "tool",
+      "start_offset": 2978,
+      "end_offset": 2982
+    },
+    {
+      "id": 1119,
+      "label": "condition",
+      "start_offset": 2965,
+      "end_offset": 2986
+    },
+    {
+      "id": 1120,
+      "label": "condition",
+      "start_offset": 2989,
+      "end_offset": 3011
+    },
+    {
+      "id": 1121,
+      "label": "condition",
+      "start_offset": 3016,
+      "end_offset": 3025
+    },
+    {
+      "id": 1122,
+      "label": "approach",
+      "start_offset": 3028,
+      "end_offset": 3039
+    },
+    {
+      "id": 1123,
+      "label": "approach",
+      "start_offset": 3044,
+      "end_offset": 3048
+    },
+    {
+      "id": 1124,
+      "label": "condition",
+      "start_offset": 3061,
+      "end_offset": 3077
+    },
+    {
+      "id": 1125,
+      "label": "approach",
+      "start_offset": 3086,
+      "end_offset": 3118
+    },
+    {
+      "id": 1126,
+      "label": "condition",
+      "start_offset": 3122,
+      "end_offset": 3142
+    },
+    {
+      "id": 1127,
+      "label": "criteria",
+      "start_offset": 3144,
+      "end_offset": 3150
+    },
+    {
+      "id": 1128,
+      "label": "tool",
+      "start_offset": 3155,
+      "end_offset": 3159
+    },
+    {
+      "id": 1129,
+      "label": "tool",
+      "start_offset": 3160,
+      "end_offset": 3162
+    },
+    {
+      "id": 1130,
+      "label": "tool",
+      "start_offset": 3163,
+      "end_offset": 3165
+    },
+    {
+      "id": 1132,
+      "label": "condition",
+      "start_offset": 3169,
+      "end_offset": 3176
+    },
+    {
+      "id": 1133,
+      "label": "approach",
+      "start_offset": 3177,
+      "end_offset": 3192
+    },
+    {
+      "id": 1134,
+      "label": "approach",
+      "start_offset": 3153,
+      "end_offset": 3168
+    },
+    {
+      "id": 1135,
+      "label": "condition",
+      "start_offset": 3203,
+      "end_offset": 3243
+    },
+    {
+      "id": 1136,
+      "label": "tolerance",
+      "start_offset": 3246,
+      "end_offset": 3255
+    },
+    {
+      "id": 1137,
+      "label": "tolerance",
+      "start_offset": 3257,
+      "end_offset": 3265
+    },
+    {
+      "id": 1138,
+      "label": "tolerance",
+      "start_offset": 3267,
+      "end_offset": 3277
+    },
+    {
+      "id": 1139,
+      "label": "tolerance",
+      "start_offset": 3278,
+      "end_offset": 3288
+    },
+    {
+      "id": 1140,
+      "label": "tolerance",
+      "start_offset": 3289,
+      "end_offset": 3293
+    },
+    {
+      "id": 1141,
+      "label": "tolerance",
+      "start_offset": 3300,
+      "end_offset": 3304
+    },
+    {
+      "id": 1142,
+      "label": "condition",
+      "start_offset": 3311,
+      "end_offset": 3335
+    },
+    {
+      "id": 1143,
+      "label": "condition",
+      "start_offset": 3338,
+      "end_offset": 3343
+    },
+    {
+      "id": 1144,
+      "label": "tolerance",
+      "start_offset": 3346,
+      "end_offset": 3350
+    },
+    {
+      "id": 1145,
+      "label": "tolerance",
+      "start_offset": 3354,
+      "end_offset": 3361
+    },
+    {
+      "id": 1146,
+      "label": "tolerance",
+      "start_offset": 3362,
+      "end_offset": 3366
+    },
+    {
+      "id": 1147,
+      "label": "tolerance",
+      "start_offset": 3367,
+      "end_offset": 3369
+    },
+    {
+      "id": 1148,
+      "label": "tolerance",
+      "start_offset": 3371,
+      "end_offset": 3377
+    },
+    {
+      "id": 1149,
+      "label": "tolerance",
+      "start_offset": 3379,
+      "end_offset": 3385
+    },
+    {
+      "id": 1150,
+      "label": "tolerance",
+      "start_offset": 3386,
+      "end_offset": 3394
+    },
+    {
+      "id": 1151,
+      "label": "tolerance",
+      "start_offset": 3395,
+      "end_offset": 3401
+    },
+    {
+      "id": 1152,
+      "label": "tolerance",
+      "start_offset": 3407,
+      "end_offset": 3413
+    },
+    {
+      "id": 1153,
+      "label": "definition",
+      "start_offset": 3415,
+      "end_offset": 3442
+    },
+    {
+      "id": 1154,
+      "label": "tool",
+      "start_offset": 3460,
+      "end_offset": 3462
+    },
+    {
+      "id": 1155,
+      "label": "tool",
+      "start_offset": 3407,
+      "end_offset": 3409
+    },
+    {
+      "id": 1156,
+      "label": "location",
+      "start_offset": 3424,
+      "end_offset": 3430
+    },
+    {
+      "id": 1157,
+      "label": "location",
+      "start_offset": 3431,
+      "end_offset": 3437
+    },
+    {
+      "id": 1158,
+      "label": "location",
+      "start_offset": 3454,
+      "end_offset": 3458
+    },
+    {
+      "id": 1159,
+      "label": "reference",
+      "start_offset": 3482,
+      "end_offset": 3487
+    },
+    {
+      "id": 1160,
+      "label": "reference",
+      "start_offset": 3466,
+      "end_offset": 3479
+    },
+    {
+      "id": 1161,
+      "label": "tolerance",
+      "start_offset": 3499,
+      "end_offset": 3507
+    },
+    {
+      "id": 1162,
+      "label": "tolerance",
+      "start_offset": 3519,
+      "end_offset": 3528
+    },
+    {
+      "id": 1163,
+      "label": "tolerance",
+      "start_offset": 3532,
+      "end_offset": 3543
+    },
+    {
+      "id": 1164,
+      "label": "tolerance",
+      "start_offset": 3544,
+      "end_offset": 3555
+    },
+    {
+      "id": 1165,
+      "label": "tolerance",
+      "start_offset": 3556,
+      "end_offset": 3564
+    },
+    {
+      "id": 1166,
+      "label": "tolerance",
+      "start_offset": 3565,
+      "end_offset": 3584
+    },
+    {
+      "id": 1167,
+      "label": "tool",
+      "start_offset": 3586,
+      "end_offset": 3588
+    },
+    {
+      "id": 1168,
+      "label": "procedure",
+      "start_offset": 3589,
+      "end_offset": 3594
+    },
+    {
+      "id": 1169,
+      "label": "location",
+      "start_offset": 3596,
+      "end_offset": 3603
+    },
+    {
+      "id": 1170,
+      "label": "location",
+      "start_offset": 3604,
+      "end_offset": 3608
+    },
+    {
+      "id": 1171,
+      "label": "location",
+      "start_offset": 3610,
+      "end_offset": 3619
+    },
+    {
+      "id": 1172,
+      "label": "location",
+      "start_offset": 3620,
+      "end_offset": 3624
+    },
+    {
+      "id": 1173,
+      "label": "tolerance",
+      "start_offset": 3629,
+      "end_offset": 3647
+    },
+    {
+      "id": 1174,
+      "label": "tolerance",
+      "start_offset": 3655,
+      "end_offset": 3669
+    },
+    {
+      "id": 1175,
+      "label": "condition",
+      "start_offset": 3671,
+      "end_offset": 3689
+    },
+    {
+      "id": 1176,
+      "label": "condition",
+      "start_offset": 3691,
+      "end_offset": 3717
+    },
+    {
+      "id": 1177,
+      "label": "tolerance",
+      "start_offset": 3703,
+      "end_offset": 3708
+    },
+    {
+      "id": 1178,
+      "label": "tolerance",
+      "start_offset": 3660,
+      "end_offset": 3669
+    },
+    {
+      "id": 1179,
+      "label": "tool",
+      "start_offset": 3720,
+      "end_offset": 3724
+    },
+    {
+      "id": 1180,
+      "label": "procedure",
+      "start_offset": 3725,
+      "end_offset": 3727
+    },
+    {
+      "id": 1181,
+      "label": "tool",
+      "start_offset": 3732,
+      "end_offset": 3735
+    },
+    {
+      "id": 1182,
+      "label": "tolerance",
+      "start_offset": 3747,
+      "end_offset": 3767
+    },
+    {
+      "id": 1183,
+      "label": "condition",
+      "start_offset": 3773,
+      "end_offset": 3800
+    },
+    {
+      "id": 1184,
+      "label": "feature",
+      "start_offset": 3773,
+      "end_offset": 3777
+    },
+    {
+      "id": 1185,
+      "label": "tolerance",
+      "start_offset": 3794,
+      "end_offset": 3800
+    },
+    {
+      "id": 1186,
+      "label": "condition",
+      "start_offset": 3802,
+      "end_offset": 3819
+    },
+    {
+      "id": 1187,
+      "label": "part",
+      "start_offset": 3812,
+      "end_offset": 3814
+    },
+    {
+      "id": 1188,
+      "label": "tool",
+      "start_offset": 3757,
+      "end_offset": 3759
+    },
+    {
+      "id": 1189,
+      "label": "condition",
+      "start_offset": 3824,
+      "end_offset": 3834
+    },
+    {
+      "id": 1190,
+      "label": "condition",
+      "start_offset": 3836,
+      "end_offset": 3848
+    },
+    {
+      "id": 1191,
+      "label": "condition",
+      "start_offset": 3851,
+      "end_offset": 3859
+    },
+    {
+      "id": 1192,
+      "label": "feature",
+      "start_offset": 3851,
+      "end_offset": 3855
+    },
+    {
+      "id": 1193,
+      "label": "part",
+      "start_offset": 3836,
+      "end_offset": 3838
+    },
+    {
+      "id": 1194,
+      "label": "reference",
+      "start_offset": 3839,
+      "end_offset": 3845
+    },
+    {
+      "id": 1195,
+      "label": "tolerance",
+      "start_offset": 3871,
+      "end_offset": 3875
+    },
+    {
+      "id": 1196,
+      "label": "tolerance",
+      "start_offset": 3881,
+      "end_offset": 3885
+    },
+    {
+      "id": 1197,
+      "label": "tool",
+      "start_offset": 3895,
+      "end_offset": 3899
+    },
+    {
+      "id": 1198,
+      "label": "tool",
+      "start_offset": 3901,
+      "end_offset": 3906
+    },
+    {
+      "id": 1199,
+      "label": "tool",
+      "start_offset": 3907,
+      "end_offset": 3911
+    },
+    {
+      "id": 1200,
+      "label": "condition",
+      "start_offset": 3918,
+      "end_offset": 3931
+    },
+    {
+      "id": 1201,
+      "label": "tolerance",
+      "start_offset": 3942,
+      "end_offset": 3946
+    },
+    {
+      "id": 1202,
+      "label": "condition",
+      "start_offset": 3950,
+      "end_offset": 3966
+    },
+    {
+      "id": 1203,
+      "label": "tolerance",
+      "start_offset": 3971,
+      "end_offset": 3977
+    },
+    {
+      "id": 1204,
+      "label": "tolerance",
+      "start_offset": 3979,
+      "end_offset": 3983
+    },
+    {
+      "id": 1205,
+      "label": "tolerance",
+      "start_offset": 3986,
+      "end_offset": 3990
+    },
+    {
+      "id": 1206,
+      "label": "condition",
+      "start_offset": 4001,
+      "end_offset": 4012
+    },
+    {
+      "id": 1207,
+      "label": "condition",
+      "start_offset": 4023,
+      "end_offset": 4037
+    },
+    {
+      "id": 1208,
+      "label": "condition",
+      "start_offset": 4041,
+      "end_offset": 4059
+    },
+    {
+      "id": 1209,
+      "label": "condition",
+      "start_offset": 4061,
+      "end_offset": 4065
+    },
+    {
+      "id": 1210,
+      "label": "tolerance",
+      "start_offset": 4052,
+      "end_offset": 4055
+    },
+    {
+      "id": 1211,
+      "label": "tool",
+      "start_offset": 4013,
+      "end_offset": 4015
+    },
+    {
+      "id": 1212,
+      "label": "condition",
+      "start_offset": 4068,
+      "end_offset": 4088
+    },
+    {
+      "id": 1213,
+      "label": "tolerance",
+      "start_offset": 4093,
+      "end_offset": 4100
+    },
+    {
+      "id": 1214,
+      "label": "tolerance",
+      "start_offset": 4102,
+      "end_offset": 4110
+    },
+    {
+      "id": 1215,
+      "label": "condition",
+      "start_offset": 4111,
+      "end_offset": 4117
+    },
+    {
+      "id": 1216,
+      "label": "condition",
+      "start_offset": 4118,
+      "end_offset": 4122
+    },
+    {
+      "id": 1217,
+      "label": "condition",
+      "start_offset": 4123,
+      "end_offset": 4127
+    },
+    {
+      "id": 1218,
+      "label": "condition",
+      "start_offset": 4128,
+      "end_offset": 4136
+    },
+    {
+      "id": 1219,
+      "label": "condition",
+      "start_offset": 4141,
+      "end_offset": 4152
+    },
+    {
+      "id": 1220,
+      "label": "condition",
+      "start_offset": 4154,
+      "end_offset": 4163
+    },
+    {
+      "id": 1221,
+      "label": "condition",
+      "start_offset": 4172,
+      "end_offset": 4186
+    },
+    {
+      "id": 1222,
+      "label": "approach",
+      "start_offset": 4197,
+      "end_offset": 4226
+    },
+    {
+      "id": 1223,
+      "label": "approach",
+      "start_offset": 4233,
+      "end_offset": 4246
+    },
+    {
+      "id": 1224,
+      "label": "approach",
+      "start_offset": 4252,
+      "end_offset": 4275
+    },
+    {
+      "id": 1225,
+      "label": "part",
+      "start_offset": 4256,
+      "end_offset": 4258
+    },
+    {
+      "id": 1226,
+      "label": "tolerance",
+      "start_offset": 4222,
+      "end_offset": 4226
+    },
+    {
+      "id": 1227,
+      "label": "part",
+      "start_offset": 4277,
+      "end_offset": 4281
+    },
+    {
+      "id": 1228,
+      "label": "definition",
+      "start_offset": 4282,
+      "end_offset": 4305
+    },
+    {
+      "id": 1229,
+      "label": "tolerance",
+      "start_offset": 4307,
+      "end_offset": 4316
+    },
+    {
+      "id": 1230,
+      "label": "tolerance",
+      "start_offset": 4333,
+      "end_offset": 4346
+    },
+    {
+      "id": 1231,
+      "label": "tolerance",
+      "start_offset": 4347,
+      "end_offset": 4351
+    },
+    {
+      "id": 1232,
+      "label": "tolerance",
+      "start_offset": 4352,
+      "end_offset": 4357
+    },
+    {
+      "id": 1233,
+      "label": "tolerance",
+      "start_offset": 4361,
+      "end_offset": 4367
+    },
+    {
+      "id": 1234,
+      "label": "definition",
+      "start_offset": 4370,
+      "end_offset": 4389
+    },
+    {
+      "id": 1235,
+      "label": "reference",
+      "start_offset": 4391,
+      "end_offset": 4397
+    },
+    {
+      "id": 1236,
+      "label": "reference",
+      "start_offset": 4420,
+      "end_offset": 4426
+    },
+    {
+      "id": 1237,
+      "label": "definition",
+      "start_offset": 4428,
+      "end_offset": 4442
+    },
+    {
+      "id": 1238,
+      "label": "tolerance",
+      "start_offset": 4448,
+      "end_offset": 4459
+    },
+    {
+      "id": 1239,
+      "label": "tolerance",
+      "start_offset": 4464,
+      "end_offset": 4469
+    },
+    {
+      "id": 1240,
+      "label": "tolerance",
+      "start_offset": 4470,
+      "end_offset": 4475
+    },
+    {
+      "id": 1241,
+      "label": "tolerance",
+      "start_offset": 4476,
+      "end_offset": 4480
+    },
+    {
+      "id": 1242,
+      "label": "tolerance",
+      "start_offset": 4488,
+      "end_offset": 4493
+    },
+    {
+      "id": 1243,
+      "label": "definition",
+      "start_offset": 4495,
+      "end_offset": 4517
+    },
+    {
+      "id": 1244,
+      "label": "reference",
+      "start_offset": 4495,
+      "end_offset": 4501
+    },
+    {
+      "id": 1245,
+      "label": "reference",
+      "start_offset": 4504,
+      "end_offset": 4510
+    },
+    {
+      "id": 1246,
+      "label": "tolerance",
+      "start_offset": 4511,
+      "end_offset": 4517
+    },
+    {
+      "id": 1247,
+      "label": "tolerance",
+      "start_offset": 4519,
+      "end_offset": 4524
+    },
+    {
+      "id": 1248,
+      "label": "definition",
+      "start_offset": 4526,
+      "end_offset": 4545
+    },
+    {
+      "id": 1249,
+      "label": "reference",
+      "start_offset": 4526,
+      "end_offset": 4532
+    },
+    {
+      "id": 1250,
+      "label": "reference",
+      "start_offset": 4533,
+      "end_offset": 4539
+    },
+    {
+      "id": 1251,
+      "label": "tolerance",
+      "start_offset": 4547,
+      "end_offset": 4551
+    },
+    {
+      "id": 1252,
+      "label": "definition",
+      "start_offset": 4551,
+      "end_offset": 4574
+    },
+    {
+      "id": 1253,
+      "label": "tolerance",
+      "start_offset": 4576,
+      "end_offset": 4584
+    },
+    {
+      "id": 1254,
+      "label": "condition",
+      "start_offset": 4599,
+      "end_offset": 4620
+    },
+    {
+      "id": 1255,
+      "label": "condition",
+      "start_offset": 4624,
+      "end_offset": 4636
+    },
+    {
+      "id": 1256,
+      "label": "condition",
+      "start_offset": 4638,
+      "end_offset": 4650
+    },
+    {
+      "id": 1257,
+      "label": "condition",
+      "start_offset": 4651,
+      "end_offset": 4658
+    },
+    {
+      "id": 1258,
+      "label": "condition",
+      "start_offset": 4660,
+      "end_offset": 4664
+    },
+    {
+      "id": 1259,
+      "label": "condition",
+      "start_offset": 4665,
+      "end_offset": 4672
+    },
+    {
+      "id": 1260,
+      "label": "condition",
+      "start_offset": 4674,
+      "end_offset": 4678
+    },
+    {
+      "id": 1261,
+      "label": "tolerance",
+      "start_offset": 4680,
+      "end_offset": 4691
+    },
+    {
+      "id": 1262,
+      "label": "condition",
+      "start_offset": 4692,
+      "end_offset": 4699
+    },
+    {
+      "id": 1263,
+      "label": "condition",
+      "start_offset": 4704,
+      "end_offset": 4718
+    },
+    {
+      "id": 1264,
+      "label": "measure",
+      "start_offset": 4720,
+      "end_offset": 4722
+    },
+    {
+      "id": 1265,
+      "label": "condition",
+      "start_offset": 4720,
+      "end_offset": 4728
+    },
+    {
+      "id": 1266,
+      "label": "tolerance",
+      "start_offset": 4724,
+      "end_offset": 4728
+    },
+    {
+      "id": 1267,
+      "label": "tolerance",
+      "start_offset": 4730,
+      "end_offset": 4738
+    },
+    {
+      "id": 1268,
+      "label": "tolerance",
+      "start_offset": 4744,
+      "end_offset": 4748
+    },
+    {
+      "id": 1269,
+      "label": "tool",
+      "start_offset": 4770,
+      "end_offset": 4774
+    },
+    {
+      "id": 1270,
+      "label": "tolerance",
+      "start_offset": 4770,
+      "end_offset": 4784
+    },
+    {
+      "id": 1271,
+      "label": "measure",
+      "start_offset": 4788,
+      "end_offset": 4791
+    },
+    {
+      "id": 1272,
+      "label": "tolerance",
+      "start_offset": 4798,
+      "end_offset": 4813
+    },
+    {
+      "id": 1273,
+      "label": "condition",
+      "start_offset": 4815,
+      "end_offset": 4843
+    },
+    {
+      "id": 1274,
+      "label": "tolerance",
+      "start_offset": 4815,
+      "end_offset": 4820
+    },
+    {
+      "id": 1275,
+      "label": "tolerance",
+      "start_offset": 4821,
+      "end_offset": 4826
+    },
+    {
+      "id": 1276,
+      "label": "tolerance",
+      "start_offset": 4827,
+      "end_offset": 4831
+    },
+    {
+      "id": 1277,
+      "label": "condition",
+      "start_offset": 4845,
+      "end_offset": 4898
+    },
+    {
+      "id": 1278,
+      "label": "tolerance",
+      "start_offset": 4878,
+      "end_offset": 4886
+    },
+    {
+      "id": 1279,
+      "label": "tolerance",
+      "start_offset": 4890,
+      "end_offset": 4897
+    },
+    {
+      "id": 1280,
+      "label": "tolerance",
+      "start_offset": 4901,
+      "end_offset": 4909
+    },
+    {
+      "id": 1281,
+      "label": "condition",
+      "start_offset": 4916,
+      "end_offset": 4953
+    },
+    {
+      "id": 1282,
+      "label": "tolerance",
+      "start_offset": 4916,
+      "end_offset": 4921
+    },
+    {
+      "id": 1283,
+      "label": "tolerance",
+      "start_offset": 4922,
+      "end_offset": 4926
+    },
+    {
+      "id": 1284,
+      "label": "tolerance",
+      "start_offset": 4927,
+      "end_offset": 4937
+    },
+    {
+      "id": 1285,
+      "label": "tolerance",
+      "start_offset": 4938,
+      "end_offset": 4949
+    },
+    {
+      "id": 1286,
+      "label": "tolerance",
+      "start_offset": 4950,
+      "end_offset": 4953
+    },
+    {
+      "id": 1287,
+      "label": "measure",
+      "start_offset": 4954,
+      "end_offset": 4958
+    },
+    {
+      "id": 1288,
+      "label": "tolerance",
+      "start_offset": 4959,
+      "end_offset": 4965
+    },
+    {
+      "id": 1289,
+      "label": "tolerance",
+      "start_offset": 4971,
+      "end_offset": 4985
+    },
+    {
+      "id": 1290,
+      "label": "definition",
+      "start_offset": 4988,
+      "end_offset": 5007
+    },
+    {
+      "id": 1291,
+      "label": "feature",
+      "start_offset": 4989,
+      "end_offset": 4992
+    },
+    {
+      "id": 1292,
+      "label": "feature",
+      "start_offset": 4993,
+      "end_offset": 4997
+    },
+    {
+      "id": 1293,
+      "label": "tolerance",
+      "start_offset": 4998,
+      "end_offset": 5002
+    },
+    {
+      "id": 1294,
+      "label": "tolerance",
+      "start_offset": 5003,
+      "end_offset": 5006
+    },
+    {
+      "id": 1295,
+      "label": "part",
+      "start_offset": 5011,
+      "end_offset": 5016
+    },
+    {
+      "id": 1296,
+      "label": "condition",
+      "start_offset": 5009,
+      "end_offset": 5026
+    },
+    {
+      "id": 1297,
+      "label": "tolerance",
+      "start_offset": 5030,
+      "end_offset": 5035
+    },
+    {
+      "id": 1298,
+      "label": "tolerance",
+      "start_offset": 5020,
+      "end_offset": 5026
+    },
+    {
+      "id": 1299,
+      "label": "tolerance",
+      "start_offset": 5039,
+      "end_offset": 5043
+    },
+    {
+      "id": 1300,
+      "label": "condition",
+      "start_offset": 5039,
+      "end_offset": 5062
+    },
+    {
+      "id": 1301,
+      "label": "condition",
+      "start_offset": 5065,
+      "end_offset": 5083
+    },
+    {
+      "id": 1302,
+      "label": "tolerance",
+      "start_offset": 5085,
+      "end_offset": 5095
+    },
+    {
+      "id": 1303,
+      "label": "tolerance",
+      "start_offset": 5096,
+      "end_offset": 5110
+    },
+    {
+      "id": 1304,
+      "label": "tool",
+      "start_offset": 5096,
+      "end_offset": 5103
+    },
+    {
+      "id": 1305,
+      "label": "tolerance",
+      "start_offset": 5104,
+      "end_offset": 5110
+    },
+    {
+      "id": 1306,
+      "label": "feature",
+      "start_offset": 5085,
+      "end_offset": 5091
+    },
+    {
+      "id": 1307,
+      "label": "tolerance",
+      "start_offset": 5132,
+      "end_offset": 5138
+    },
+    {
+      "id": 1308,
+      "label": "tool",
+      "start_offset": 5139,
+      "end_offset": 5146
+    },
+    {
+      "id": 1309,
+      "label": "tolerance",
+      "start_offset": 5147,
+      "end_offset": 5153
+    },
+    {
+      "id": 1310,
+      "label": "tolerance",
+      "start_offset": 5175,
+      "end_offset": 5190
+    },
+    {
+      "id": 1311,
+      "label": "condition",
+      "start_offset": 5191,
+      "end_offset": 5227
+    },
+    {
+      "id": 1312,
+      "label": "tool",
+      "start_offset": 5194,
+      "end_offset": 5201
+    },
+    {
+      "id": 1314,
+      "label": "tool",
+      "start_offset": 5203,
+      "end_offset": 5210
+    },
+    {
+      "id": 1315,
+      "label": "tolerance",
+      "start_offset": 5220,
+      "end_offset": 5227
+    },
+    {
+      "id": 1316,
+      "label": "tolerance",
+      "start_offset": 5229,
+      "end_offset": 5241
+    },
+    {
+      "id": 1317,
+      "label": "part",
+      "start_offset": 5229,
+      "end_offset": 5236
+    },
+    {
+      "id": 1318,
+      "label": "tolerance",
+      "start_offset": 5244,
+      "end_offset": 5254
+    },
+    {
+      "id": 1319,
+      "label": "condition",
+      "start_offset": 5256,
+      "end_offset": 5269
+    },
+    {
+      "id": 1320,
+      "label": "condition",
+      "start_offset": 5273,
+      "end_offset": 5292
+    },
+    {
+      "id": 1321,
+      "label": "location",
+      "start_offset": 5273,
+      "end_offset": 5279
+    },
+    {
+      "id": 1322,
+      "label": "tolerance",
+      "start_offset": 5286,
+      "end_offset": 5291
+    },
+    {
+      "id": 1323,
+      "label": "tolerance",
+      "start_offset": 5293,
+      "end_offset": 5302
+    },
+    {
+      "id": 1324,
+      "label": "measure",
+      "start_offset": 5303,
+      "end_offset": 5309
+    },
+    {
+      "id": 1325,
+      "label": "condition",
+      "start_offset": 5314,
+      "end_offset": 5331
+    },
+    {
+      "id": 1326,
+      "label": "condition",
+      "start_offset": 5334,
+      "end_offset": 5354
+    },
+    {
+      "id": 1327,
+      "label": "part",
+      "start_offset": 5334,
+      "end_offset": 5336
+    },
+    {
+      "id": 1328,
+      "label": "tolerance",
+      "start_offset": 5342,
+      "end_offset": 5352
+    },
+    {
+      "id": 1329,
+      "label": "tolerance",
+      "start_offset": 5356,
+      "end_offset": 5366
+    },
+    {
+      "id": 1330,
+      "label": "part",
+      "start_offset": 5356,
+      "end_offset": 5360
+    },
+    {
+      "id": 1331,
+      "label": "tolerance",
+      "start_offset": 5369,
+      "end_offset": 5377
+    },
+    {
+      "id": 1332,
+      "label": "part",
+      "start_offset": 5379,
+      "end_offset": 5385
+    },
+    {
+      "id": 1333,
+      "label": "part",
+      "start_offset": 5386,
+      "end_offset": 5392
+    },
+    {
+      "id": 1334,
+      "label": "condition",
+      "start_offset": 5379,
+      "end_offset": 5401
+    },
+    {
+      "id": 1335,
+      "label": "tolerance",
+      "start_offset": 5405,
+      "end_offset": 5413
+    },
+    {
+      "id": 1336,
+      "label": "tolerance",
+      "start_offset": 5418,
+      "end_offset": 5423
+    },
+    {
+      "id": 1337,
+      "label": "tolerance",
+      "start_offset": 5424,
+      "end_offset": 5428
+    },
+    {
+      "id": 1338,
+      "label": "tolerance",
+      "start_offset": 5430,
+      "end_offset": 5434
+    },
+    {
+      "id": 1339,
+      "label": "tolerance",
+      "start_offset": 5437,
+      "end_offset": 5443
+    },
+    {
+      "id": 1340,
+      "label": "tolerance",
+      "start_offset": 5444,
+      "end_offset": 5448
+    },
+    {
+      "id": 1341,
+      "label": "condition",
+      "start_offset": 5454,
+      "end_offset": 5460
+    },
+    {
+      "id": 1342,
+      "label": "condition",
+      "start_offset": 5510,
+      "end_offset": 5519
+    },
+    {
+      "id": 1343,
+      "label": "criteria",
+      "start_offset": 5485,
+      "end_offset": 5489
+    },
+    {
+      "id": 1344,
+      "label": "measure",
+      "start_offset": 5490,
+      "end_offset": 5495
+    },
+    {
+      "id": 1345,
+      "label": "condition",
+      "start_offset": 5523,
+      "end_offset": 5534
+    },
+    {
+      "id": 1346,
+      "label": "condition",
+      "start_offset": 5535,
+      "end_offset": 5542
+    },
+    {
+      "id": 1347,
+      "label": "tolerance",
+      "start_offset": 5551,
+      "end_offset": 5564
+    },
+    {
+      "id": 1348,
+      "label": "condition",
+      "start_offset": 5567,
+      "end_offset": 5577
+    },
+    {
+      "id": 1349,
+      "label": "tolerance",
+      "start_offset": 5580,
+      "end_offset": 5584
+    },
+    {
+      "id": 1350,
+      "label": "feature",
+      "start_offset": 5587,
+      "end_offset": 5592
+    },
+    {
+      "id": 1351,
+      "label": "feature",
+      "start_offset": 5598,
+      "end_offset": 5600
+    },
+    {
+      "id": 1352,
+      "label": "part",
+      "start_offset": 5601,
+      "end_offset": 5604
+    },
+    {
+      "id": 1353,
+      "label": "part",
+      "start_offset": 5605,
+      "end_offset": 5609
+    },
+    {
+      "id": 1354,
+      "label": "part",
+      "start_offset": 5610,
+      "end_offset": 5612
+    },
+    {
+      "id": 1355,
+      "label": "condition",
+      "start_offset": 5621,
+      "end_offset": 5638
+    },
+    {
+      "id": 1356,
+      "label": "tolerance",
+      "start_offset": 5622,
+      "end_offset": 5627
+    },
+    {
+      "id": 1357,
+      "label": "condition",
+      "start_offset": 5641,
+      "end_offset": 5665
+    },
+    {
+      "id": 1358,
+      "label": "tolerance",
+      "start_offset": 5651,
+      "end_offset": 5665
+    },
+    {
+      "id": 1359,
+      "label": "feature",
+      "start_offset": 5667,
+      "end_offset": 5675
+    },
+    {
+      "id": 1360,
+      "label": "feature",
+      "start_offset": 5676,
+      "end_offset": 5685
+    },
+    {
+      "id": 1361,
+      "label": "tolerance",
+      "start_offset": 5667,
+      "end_offset": 5689
+    },
+    {
+      "id": 1362,
+      "label": "condition",
+      "start_offset": 5691,
+      "end_offset": 5703
+    },
+    {
+      "id": 1363,
+      "label": "tolerance",
+      "start_offset": 5710,
+      "end_offset": 5719
+    },
+    {
+      "id": 1364,
+      "label": "approach",
+      "start_offset": 5721,
+      "end_offset": 5741
+    },
+    {
+      "id": 1365,
+      "label": "tolerance",
+      "start_offset": 5732,
+      "end_offset": 5736
+    },
+    {
+      "id": 1366,
+      "label": "criteria",
+      "start_offset": 5737,
+      "end_offset": 5741
+    },
+    {
+      "id": 1367,
+      "label": "condition",
+      "start_offset": 5743,
+      "end_offset": 5751
+    },
+    {
+      "id": 1368,
+      "label": "condition",
+      "start_offset": 5762,
+      "end_offset": 5790
+    },
+    {
+      "id": 1369,
+      "label": "reference",
+      "start_offset": 5782,
+      "end_offset": 5786
+    },
+    {
+      "id": 1370,
+      "label": "condition",
+      "start_offset": 5792,
+      "end_offset": 5836
+    },
+    {
+      "id": 1371,
+      "label": "measure",
+      "start_offset": 5793,
+      "end_offset": 5797
+    },
+    {
+      "id": 1372,
+      "label": "tolerance",
+      "start_offset": 5815,
+      "end_offset": 5819
+    },
+    {
+      "id": 1373,
+      "label": "tolerance",
+      "start_offset": 5838,
+      "end_offset": 5845
+    },
+    {
+      "id": 1374,
+      "label": "condition",
+      "start_offset": 5858,
+      "end_offset": 5875
+    },
+    {
+      "id": 1375,
+      "label": "tolerance",
+      "start_offset": 5887,
+      "end_offset": 5893
+    },
+    {
+      "id": 1376,
+      "label": "condition",
+      "start_offset": 5901,
+      "end_offset": 5911
+    },
+    {
+      "id": 1377,
+      "label": "tolerance",
+      "start_offset": 5913,
+      "end_offset": 5919
+    },
+    {
+      "id": 1378,
+      "label": "tolerance",
+      "start_offset": 5920,
+      "end_offset": 5924
+    },
+    {
+      "id": 1379,
+      "label": "condition",
+      "start_offset": 5928,
+      "end_offset": 5938
+    },
+    {
+      "id": 1380,
+      "label": "condition",
+      "start_offset": 5939,
+      "end_offset": 5952
+    },
+    {
+      "id": 1381,
+      "label": "condition",
+      "start_offset": 6012,
+      "end_offset": 6023
+    },
+    {
+      "id": 1382,
+      "label": "tolerance",
+      "start_offset": 6026,
+      "end_offset": 6030
+    },
+    {
+      "id": 1383,
+      "label": "tolerance",
+      "start_offset": 6031,
+      "end_offset": 6035
+    },
+    {
+      "id": 1384,
+      "label": "tolerance",
+      "start_offset": 6036,
+      "end_offset": 6047
+    },
+    {
+      "id": 1385,
+      "label": "measure",
+      "start_offset": 6048,
+      "end_offset": 6052
+    },
+    {
+      "id": 1386,
+      "label": "tool",
+      "start_offset": 6053,
+      "end_offset": 6062
+    },
+    {
+      "id": 1387,
+      "label": "tool",
+      "start_offset": 6063,
+      "end_offset": 6066
+    },
+    {
+      "id": 1388,
+      "label": "approach",
+      "start_offset": 6068,
+      "end_offset": 6079
+    },
+    {
+      "id": 1389,
+      "label": "approach",
+      "start_offset": 6082,
+      "end_offset": 6093
+    },
+    {
+      "id": 1390,
+      "label": "approach",
+      "start_offset": 6094,
+      "end_offset": 6103
+    },
+    {
+      "id": 1391,
+      "label": "approach",
+      "start_offset": 6104,
+      "end_offset": 6119
+    },
+    {
+      "id": 1392,
+      "label": "tolerance",
+      "start_offset": 6089,
+      "end_offset": 6093
+    },
+    {
+      "id": 1393,
+      "label": "tolerance",
+      "start_offset": 6108,
+      "end_offset": 6112
+    },
+    {
+      "id": 1394,
+      "label": "approach",
+      "start_offset": 6121,
+      "end_offset": 6132
+    },
+    {
+      "id": 1395,
+      "label": "approach",
+      "start_offset": 6135,
+      "end_offset": 6144
+    },
+    {
+      "id": 1396,
+      "label": "part",
+      "start_offset": 6137,
+      "end_offset": 6139
+    },
+    {
+      "id": 1397,
+      "label": "tolerance",
+      "start_offset": 6140,
+      "end_offset": 6144
+    },
+    {
+      "id": 1398,
+      "label": "approach",
+      "start_offset": 6146,
+      "end_offset": 6156
+    },
+    {
+      "id": 1399,
+      "label": "approach",
+      "start_offset": 6158,
+      "end_offset": 6176
+    },
+    {
+      "id": 1400,
+      "label": "part",
+      "start_offset": 6148,
+      "end_offset": 6156
+    },
+    {
+      "id": 1401,
+      "label": "part",
+      "start_offset": 6164,
+      "end_offset": 6171
+    },
+    {
+      "id": 1402,
+      "label": "part",
+      "start_offset": 6172,
+      "end_offset": 6176
+    },
+    {
+      "id": 1403,
+      "label": "approach",
+      "start_offset": 6178,
+      "end_offset": 6189
+    },
+    {
+      "id": 1404,
+      "label": "approach",
+      "start_offset": 6192,
+      "end_offset": 6223
+    },
+    {
+      "id": 1405,
+      "label": "feature",
+      "start_offset": 6194,
+      "end_offset": 6199
+    },
+    {
+      "id": 1406,
+      "label": "feature",
+      "start_offset": 6200,
+      "end_offset": 6204
+    },
+    {
+      "id": 1407,
+      "label": "tolerance",
+      "start_offset": 6205,
+      "end_offset": 6224
+    },
+    {
+      "id": 1408,
+      "label": "approach",
+      "start_offset": 6225,
+      "end_offset": 6236
+    },
+    {
+      "id": 1409,
+      "label": "approach",
+      "start_offset": 6238,
+      "end_offset": 6301
+    },
+    {
+      "id": 1410,
+      "label": "part",
+      "start_offset": 6245,
+      "end_offset": 6249
+    },
+    {
+      "id": 1411,
+      "label": "feature",
+      "start_offset": 6250,
+      "end_offset": 6254
+    },
+    {
+      "id": 1412,
+      "label": "tolerance",
+      "start_offset": 6255,
+      "end_offset": 6260
+    },
+    {
+      "id": 1413,
+      "label": "tolerance",
+      "start_offset": 6265,
+      "end_offset": 6270
+    },
+    {
+      "id": 1414,
+      "label": "tolerance",
+      "start_offset": 6291,
+      "end_offset": 6297
+    },
+    {
+      "id": 1415,
+      "label": "approach",
+      "start_offset": 6302,
+      "end_offset": 6311
+    },
+    {
+      "id": 1416,
+      "label": "approach",
+      "start_offset": 6312,
+      "end_offset": 6316
+    },
+    {
+      "id": 1417,
+      "label": "approach",
+      "start_offset": 6319,
+      "end_offset": 6325
+    },
+    {
+      "id": 1418,
+      "label": "approach",
+      "start_offset": 6326,
+      "end_offset": 6332
+    },
+    {
+      "id": 1419,
+      "label": "condition",
+      "start_offset": 6355,
+      "end_offset": 6362
+    },
+    {
+      "id": 1420,
+      "label": "tolerance",
+      "start_offset": 6358,
+      "end_offset": 6362
+    },
+    {
+      "id": 1421,
+      "label": "condition",
+      "start_offset": 6364,
+      "end_offset": 6385
+    },
+    {
+      "id": 1422,
+      "label": "feature",
+      "start_offset": 6365,
+      "end_offset": 6373
+    },
+    {
+      "id": 1423,
+      "label": "part",
+      "start_offset": 6374,
+      "end_offset": 6377
+    },
+    {
+      "id": 1424,
+      "label": "tolerance",
+      "start_offset": 6391,
+      "end_offset": 6398
+    },
+    {
+      "id": 1425,
+      "label": "approach",
+      "start_offset": 6400,
+      "end_offset": 6424
+    },
+    {
+      "id": 1426,
+      "label": "condition",
+      "start_offset": 6426,
+      "end_offset": 6434
+    },
+    {
+      "id": 1427,
+      "label": "tool",
+      "start_offset": 6448,
+      "end_offset": 6452
+    },
+    {
+      "id": 1428,
+      "label": "procedure",
+      "start_offset": 6453,
+      "end_offset": 6459
+    },
+    {
+      "id": 1429,
+      "label": "tool",
+      "start_offset": 6467,
+      "end_offset": 6471
+    },
+    {
+      "id": 1430,
+      "label": "part",
+      "start_offset": 6474,
+      "end_offset": 6476
+    },
+    {
+      "id": 1431,
+      "label": "tolerance",
+      "start_offset": 6483,
+      "end_offset": 6490
+    },
+    {
+      "id": 1432,
+      "label": "tolerance",
+      "start_offset": 6495,
+      "end_offset": 6512
+    },
+    {
+      "id": 1433,
+      "label": "tolerance",
+      "start_offset": 6516,
+      "end_offset": 6525
+    },
+    {
+      "id": 1434,
+      "label": "tolerance",
+      "start_offset": 6529,
+      "end_offset": 6538
+    },
+    {
+      "id": 1435,
+      "label": "tool",
+      "start_offset": 6546,
+      "end_offset": 6548
+    },
+    {
+      "id": 1436,
+      "label": "part",
+      "start_offset": 6551,
+      "end_offset": 6556
+    },
+    {
+      "id": 1437,
+      "label": "feature",
+      "start_offset": 6551,
+      "end_offset": 6559
+    },
+    {
+      "id": 1438,
+      "label": "tool",
+      "start_offset": 6564,
+      "end_offset": 6570
+    },
+    {
+      "id": 1439,
+      "label": "tolerance",
+      "start_offset": 6586,
+      "end_offset": 6593
+    },
+    {
+      "id": 1440,
+      "label": "tolerance",
+      "start_offset": 6594,
+      "end_offset": 6602
+    },
+    {
+      "id": 1441,
+      "label": "tolerance",
+      "start_offset": 6608,
+      "end_offset": 6618
+    },
+    {
+      "id": 1442,
+      "label": "criteria",
+      "start_offset": 0,
+      "end_offset": 7
+    },
+    {
+      "id": 1443,
+      "label": "condition",
+      "start_offset": 829,
+      "end_offset": 841
+    },
+    {
+      "id": 1445,
+      "label": "tolerance",
+      "start_offset": 1116,
+      "end_offset": 1131
+    }
+  ],
+  "relations": [
+    {
+      "id": 435,
+      "from_id": 1442,
+      "to_id": 833,
+      "type": "强相关"
+    },
+    {
+      "id": 436,
+      "from_id": 834,
+      "to_id": 835,
+      "type": "包含"
+    },
+    {
+      "id": 437,
+      "from_id": 834,
+      "to_id": 836,
+      "type": "包含"
+    },
+    {
+      "id": 439,
+      "from_id": 837,
+      "to_id": 844,
+      "type": "定义是"
+    },
+    {
+      "id": 440,
+      "from_id": 839,
+      "to_id": 838,
+      "type": "同类"
+    },
+    {
+      "id": 441,
+      "from_id": 845,
+      "to_id": 846,
+      "type": "定义是"
+    },
+    {
+      "id": 442,
+      "from_id": 847,
+      "to_id": 848,
+      "type": "同类"
+    },
+    {
+      "id": 443,
+      "from_id": 853,
+      "to_id": 855,
+      "type": "强相关"
+    },
+    {
+      "id": 444,
+      "from_id": 854,
+      "to_id": 855,
+      "type": "强相关"
+    },
+    {
+      "id": 445,
+      "from_id": 853,
+      "to_id": 854,
+      "type": "同类"
+    },
+    {
+      "id": 446,
+      "from_id": 858,
+      "to_id": 859,
+      "type": "同类"
+    },
+    {
+      "id": 447,
+      "from_id": 860,
+      "to_id": 861,
+      "type": "包含"
+    },
+    {
+      "id": 448,
+      "from_id": 860,
+      "to_id": 862,
+      "type": "包含"
+    },
+    {
+      "id": 449,
+      "from_id": 860,
+      "to_id": 863,
+      "type": "包含"
+    },
+    {
+      "id": 450,
+      "from_id": 856,
+      "to_id": 857,
+      "type": "同类"
+    },
+    {
+      "id": 451,
+      "from_id": 864,
+      "to_id": 865,
+      "type": "不大于"
+    },
+    {
+      "id": 452,
+      "from_id": 866,
+      "to_id": 867,
+      "type": "不大于"
+    },
+    {
+      "id": 453,
+      "from_id": 869,
+      "to_id": 868,
+      "type": "正比"
+    },
+    {
+      "id": 454,
+      "from_id": 870,
+      "to_id": 868,
+      "type": "正比"
+    },
+    {
+      "id": 456,
+      "from_id": 871,
+      "to_id": 872,
+      "type": "弱相关"
+    },
+    {
+      "id": 457,
+      "from_id": 871,
+      "to_id": 873,
+      "type": "弱相关"
+    },
+    {
+      "id": 458,
+      "from_id": 875,
+      "to_id": 874,
+      "type": "正比"
+    },
+    {
+      "id": 459,
+      "from_id": 876,
+      "to_id": 874,
+      "type": "反比"
+    },
+    {
+      "id": 460,
+      "from_id": 877,
+      "to_id": 879,
+      "type": "unknow"
+    },
+    {
+      "id": 461,
+      "from_id": 878,
+      "to_id": 879,
+      "type": "unknow"
+    },
+    {
+      "id": 462,
+      "from_id": 886,
+      "to_id": 885,
+      "type": "因果关系"
+    },
+    {
+      "id": 463,
+      "from_id": 895,
+      "to_id": 891,
+      "type": "强相关"
+    },
+    {
+      "id": 464,
+      "from_id": 895,
+      "to_id": 892,
+      "type": "强相关"
+    },
+    {
+      "id": 465,
+      "from_id": 902,
+      "to_id": 896,
+      "type": "包含"
+    },
+    {
+      "id": 466,
+      "from_id": 902,
+      "to_id": 899,
+      "type": "包含"
+    },
+    {
+      "id": 467,
+      "from_id": 902,
+      "to_id": 900,
+      "type": "包含"
+    },
+    {
+      "id": 468,
+      "from_id": 902,
+      "to_id": 901,
+      "type": "包含"
+    },
+    {
+      "id": 469,
+      "from_id": 903,
+      "to_id": 904,
+      "type": "强相关"
+    },
+    {
+      "id": 470,
+      "from_id": 905,
+      "to_id": 906,
+      "type": "因果关系"
+    },
+    {
+      "id": 471,
+      "from_id": 907,
+      "to_id": 908,
+      "type": "因果关系"
+    },
+    {
+      "id": 472,
+      "from_id": 910,
+      "to_id": 909,
+      "type": "定义是"
+    },
+    {
+      "id": 473,
+      "from_id": 913,
+      "to_id": 912,
+      "type": "unknow"
+    },
+    {
+      "id": 474,
+      "from_id": 912,
+      "to_id": 915,
+      "type": "因果关系"
+    },
+    {
+      "id": 475,
+      "from_id": 915,
+      "to_id": 916,
+      "type": "因果关系"
+    },
+    {
+      "id": 476,
+      "from_id": 917,
+      "to_id": 920,
+      "type": "具有"
+    },
+    {
+      "id": 477,
+      "from_id": 925,
+      "to_id": 1443,
+      "type": "同类"
+    },
+    {
+      "id": 478,
+      "from_id": 926,
+      "to_id": 927,
+      "type": "强相关"
+    },
+    {
+      "id": 479,
+      "from_id": 939,
+      "to_id": 938,
+      "type": "因果关系"
+    },
+    {
+      "id": 480,
+      "from_id": 937,
+      "to_id": 938,
+      "type": "因果关系"
+    },
+    {
+      "id": 481,
+      "from_id": 929,
+      "to_id": 931,
+      "type": "同类"
+    },
+    {
+      "id": 482,
+      "from_id": 930,
+      "to_id": 932,
+      "type": "同类"
+    },
+    {
+      "id": 483,
+      "from_id": 933,
+      "to_id": 934,
+      "type": "强相关"
+    },
+    {
+      "id": 484,
+      "from_id": 935,
+      "to_id": 936,
+      "type": "强相关"
+    },
+    {
+      "id": 486,
+      "from_id": 942,
+      "to_id": 938,
+      "type": "包含"
+    },
+    {
+      "id": 487,
+      "from_id": 942,
+      "to_id": 941,
+      "type": "包含"
+    },
+    {
+      "id": 488,
+      "from_id": 943,
+      "to_id": 944,
+      "type": "unknow"
+    },
+    {
+      "id": 489,
+      "from_id": 943,
+      "to_id": 945,
+      "type": "unknow"
+    },
+    {
+      "id": 490,
+      "from_id": 956,
+      "to_id": 955,
+      "type": "强相关"
+    },
+    {
+      "id": 491,
+      "from_id": 955,
+      "to_id": 961,
+      "type": "包含"
+    },
+    {
+      "id": 493,
+      "from_id": 961,
+      "to_id": 962,
+      "type": "因果关系"
+    },
+    {
+      "id": 494,
+      "from_id": 964,
+      "to_id": 963,
+      "type": "因果关系"
+    },
+    {
+      "id": 495,
+      "from_id": 970,
+      "to_id": 969,
+      "type": "同类"
+    },
+    {
+      "id": 496,
+      "from_id": 969,
+      "to_id": 963,
+      "type": "包含"
+    },
+    {
+      "id": 497,
+      "from_id": 969,
+      "to_id": 1445,
+      "type": "包含"
+    },
+    {
+      "id": 498,
+      "from_id": 978,
+      "to_id": 974,
+      "type": "因果关系"
+    },
+    {
+      "id": 499,
+      "from_id": 974,
+      "to_id": 979,
+      "type": "强相关"
+    },
+    {
+      "id": 500,
+      "from_id": 981,
+      "to_id": 980,
+      "type": "定义是"
+    },
+    {
+      "id": 501,
+      "from_id": 983,
+      "to_id": 982,
+      "type": "包含"
+    },
+    {
+      "id": 502,
+      "from_id": 984,
+      "to_id": 985,
+      "type": "定义是"
+    },
+    {
+      "id": 503,
+      "from_id": 986,
+      "to_id": 988,
+      "type": "unknow"
+    },
+    {
+      "id": 504,
+      "from_id": 990,
+      "to_id": 991,
+      "type": "unknow"
+    },
+    {
+      "id": 505,
+      "from_id": 997,
+      "to_id": 998,
+      "type": "因果关系"
+    },
+    {
+      "id": 506,
+      "from_id": 998,
+      "to_id": 999,
+      "type": "同类"
+    },
+    {
+      "id": 507,
+      "from_id": 1000,
+      "to_id": 1001,
+      "type": "因果关系"
+    },
+    {
+      "id": 508,
+      "from_id": 1003,
+      "to_id": 1002,
+      "type": "包含"
+    },
+    {
+      "id": 509,
+      "from_id": 1008,
+      "to_id": 1009,
+      "type": "因果关系"
+    },
+    {
+      "id": 510,
+      "from_id": 1006,
+      "to_id": 1007,
+      "type": "强相关"
+    },
+    {
+      "id": 511,
+      "from_id": 1004,
+      "to_id": 1008,
+      "type": "unknow"
+    },
+    {
+      "id": 512,
+      "from_id": 1014,
+      "to_id": 1011,
+      "type": "unknow"
+    },
+    {
+      "id": 513,
+      "from_id": 1015,
+      "to_id": 1016,
+      "type": "强相关"
+    },
+    {
+      "id": 514,
+      "from_id": 1017,
+      "to_id": 1018,
+      "type": "强相关"
+    },
+    {
+      "id": 515,
+      "from_id": 1025,
+      "to_id": 1031,
+      "type": "强相关"
+    },
+    {
+      "id": 516,
+      "from_id": 1019,
+      "to_id": 1020,
+      "type": "因果关系"
+    },
+    {
+      "id": 517,
+      "from_id": 1024,
+      "to_id": 1030,
+      "type": "强相关"
+    },
+    {
+      "id": 518,
+      "from_id": 1021,
+      "to_id": 1022,
+      "type": "因果关系"
+    },
+    {
+      "id": 519,
+      "from_id": 1028,
+      "to_id": 1029,
+      "type": "强相关"
+    },
+    {
+      "id": 520,
+      "from_id": 1036,
+      "to_id": 1035,
+      "type": "定义是"
+    },
+    {
+      "id": 521,
+      "from_id": 1040,
+      "to_id": 1041,
+      "type": "包含"
+    },
+    {
+      "id": 522,
+      "from_id": 1040,
+      "to_id": 1042,
+      "type": "包含"
+    },
+    {
+      "id": 523,
+      "from_id": 1043,
+      "to_id": 1044,
+      "type": "定义是"
+    },
+    {
+      "id": 524,
+      "from_id": 1045,
+      "to_id": 1046,
+      "type": "定义是"
+    },
+    {
+      "id": 525,
+      "from_id": 1047,
+      "to_id": 1048,
+      "type": "强相关"
+    },
+    {
+      "id": 526,
+      "from_id": 1049,
+      "to_id": 1050,
+      "type": "定义是"
+    },
+    {
+      "id": 529,
+      "from_id": 1054,
+      "to_id": 1053,
+      "type": "强相关"
+    },
+    {
+      "id": 530,
+      "from_id": 1055,
+      "to_id": 1053,
+      "type": "强相关"
+    },
+    {
+      "id": 531,
+      "from_id": 1056,
+      "to_id": 1057,
+      "type": "定义是"
+    },
+    {
+      "id": 532,
+      "from_id": 1058,
+      "to_id": 1059,
+      "type": "定义是"
+    },
+    {
+      "id": 533,
+      "from_id": 1061,
+      "to_id": 1060,
+      "type": "强相关"
+    },
+    {
+      "id": 534,
+      "from_id": 1063,
+      "to_id": 1062,
+      "type": "因果关系"
+    },
+    {
+      "id": 535,
+      "from_id": 1064,
+      "to_id": 1065,
+      "type": "因果关系"
+    },
+    {
+      "id": 536,
+      "from_id": 1066,
+      "to_id": 1067,
+      "type": "强相关"
+    },
+    {
+      "id": 537,
+      "from_id": 1066,
+      "to_id": 1069,
+      "type": "因果关系"
+    },
+    {
+      "id": 538,
+      "from_id": 1070,
+      "to_id": 1071,
+      "type": "因果关系"
+    },
+    {
+      "id": 539,
+      "from_id": 1070,
+      "to_id": 1072,
+      "type": "因果关系"
+    },
+    {
+      "id": 540,
+      "from_id": 1073,
+      "to_id": 1074,
+      "type": "因果关系"
+    },
+    {
+      "id": 541,
+      "from_id": 1075,
+      "to_id": 1076,
+      "type": "包含"
+    },
+    {
+      "id": 542,
+      "from_id": 1075,
+      "to_id": 1077,
+      "type": "包含"
+    },
+    {
+      "id": 543,
+      "from_id": 1078,
+      "to_id": 1079,
+      "type": "unknow"
+    },
+    {
+      "id": 544,
+      "from_id": 1080,
+      "to_id": 1081,
+      "type": "定义是"
+    },
+    {
+      "id": 545,
+      "from_id": 1083,
+      "to_id": 1084,
+      "type": "同类"
+    },
+    {
+      "id": 546,
+      "from_id": 1094,
+      "to_id": 1095,
+      "type": "包含"
+    },
+    {
+      "id": 547,
+      "from_id": 1094,
+      "to_id": 1096,
+      "type": "包含"
+    },
+    {
+      "id": 548,
+      "from_id": 1094,
+      "to_id": 1097,
+      "type": "包含"
+    },
+    {
+      "id": 549,
+      "from_id": 1098,
+      "to_id": 1099,
+      "type": "定义是"
+    },
+    {
+      "id": 550,
+      "from_id": 1101,
+      "to_id": 1102,
+      "type": "因果关系"
+    },
+    {
+      "id": 551,
+      "from_id": 1104,
+      "to_id": 1105,
+      "type": "强相关"
+    },
+    {
+      "id": 552,
+      "from_id": 1117,
+      "to_id": 1118,
+      "type": "强相关"
+    },
+    {
+      "id": 553,
+      "from_id": 1123,
+      "to_id": 1124,
+      "type": "因果关系"
+    },
+    {
+      "id": 554,
+      "from_id": 1125,
+      "to_id": 1126,
+      "type": "因果关系"
+    },
+    {
+      "id": 555,
+      "from_id": 1134,
+      "to_id": 1132,
+      "type": "因果关系"
+    },
+    {
+      "id": 556,
+      "from_id": 1128,
+      "to_id": 1129,
+      "type": "同类"
+    },
+    {
+      "id": 557,
+      "from_id": 1129,
+      "to_id": 1130,
+      "type": "同类"
+    },
+    {
+      "id": 558,
+      "from_id": 1133,
+      "to_id": 1135,
+      "type": "强相关"
+    },
+    {
+      "id": 559,
+      "from_id": 1135,
+      "to_id": 1136,
+      "type": "因果关系"
+    },
+    {
+      "id": 560,
+      "from_id": 1137,
+      "to_id": 1138,
+      "type": "包含"
+    },
+    {
+      "id": 561,
+      "from_id": 1137,
+      "to_id": 1139,
+      "type": "包含"
+    },
+    {
+      "id": 562,
+      "from_id": 1137,
+      "to_id": 1140,
+      "type": "包含"
+    },
+    {
+      "id": 563,
+      "from_id": 1142,
+      "to_id": 1143,
+      "type": "因果关系"
+    },
+    {
+      "id": 564,
+      "from_id": 1144,
+      "to_id": 1145,
+      "type": "包含"
+    },
+    {
+      "id": 565,
+      "from_id": 1144,
+      "to_id": 1146,
+      "type": "包含"
+    },
+    {
+      "id": 566,
+      "from_id": 1144,
+      "to_id": 1147,
+      "type": "包含"
+    },
+    {
+      "id": 567,
+      "from_id": 1148,
+      "to_id": 1151,
+      "type": "强相关"
+    },
+    {
+      "id": 568,
+      "from_id": 1149,
+      "to_id": 1151,
+      "type": "强相关"
+    },
+    {
+      "id": 569,
+      "from_id": 1150,
+      "to_id": 1151,
+      "type": "强相关"
+    },
+    {
+      "id": 570,
+      "from_id": 1152,
+      "to_id": 1153,
+      "type": "定义是"
+    },
+    {
+      "id": 571,
+      "from_id": 1156,
+      "to_id": 1157,
+      "type": "强相关"
+    },
+    {
+      "id": 572,
+      "from_id": 1154,
+      "to_id": 1160,
+      "type": "强相关"
+    },
+    {
+      "id": 573,
+      "from_id": 1154,
+      "to_id": 1159,
+      "type": "强相关"
+    },
+    {
+      "id": 574,
+      "from_id": 1154,
+      "to_id": 1161,
+      "type": "强相关"
+    },
+    {
+      "id": 575,
+      "from_id": 1162,
+      "to_id": 1163,
+      "type": "包含"
+    },
+    {
+      "id": 576,
+      "from_id": 1162,
+      "to_id": 1164,
+      "type": "包含"
+    },
+    {
+      "id": 577,
+      "from_id": 1162,
+      "to_id": 1165,
+      "type": "包含"
+    },
+    {
+      "id": 578,
+      "from_id": 1162,
+      "to_id": 1166,
+      "type": "包含"
+    },
+    {
+      "id": 579,
+      "from_id": 1168,
+      "to_id": 1170,
+      "type": "强相关"
+    },
+    {
+      "id": 580,
+      "from_id": 1169,
+      "to_id": 1170,
+      "type": "unknow"
+    },
+    {
+      "id": 581,
+      "from_id": 1171,
+      "to_id": 1172,
+      "type": "unknow"
+    },
+    {
+      "id": 582,
+      "from_id": 1173,
+      "to_id": 1174,
+      "type": "因果关系"
+    },
+    {
+      "id": 583,
+      "from_id": 1175,
+      "to_id": 1176,
+      "type": "因果关系"
+    },
+    {
+      "id": 584,
+      "from_id": 1182,
+      "to_id": 1183,
+      "type": "强相关"
+    },
+    {
+      "id": 585,
+      "from_id": 1180,
+      "to_id": 1179,
+      "type": "强相关"
+    },
+    {
+      "id": 586,
+      "from_id": 1186,
+      "to_id": 1189,
+      "type": "因果关系"
+    },
+    {
+      "id": 587,
+      "from_id": 1190,
+      "to_id": 1191,
+      "type": "因果关系"
+    },
+    {
+      "id": 588,
+      "from_id": 1193,
+      "to_id": 1194,
+      "type": "强相关"
+    },
+    {
+      "id": 589,
+      "from_id": 1195,
+      "to_id": 1196,
+      "type": "大于"
+    },
+    {
+      "id": 590,
+      "from_id": 1197,
+      "to_id": 1198,
+      "type": "同类"
+    },
+    {
+      "id": 591,
+      "from_id": 1198,
+      "to_id": 1199,
+      "type": "同类"
+    },
+    {
+      "id": 592,
+      "from_id": 1200,
+      "to_id": 1201,
+      "type": "强相关"
+    },
+    {
+      "id": 593,
+      "from_id": 1202,
+      "to_id": 1203,
+      "type": "因果关系"
+    },
+    {
+      "id": 594,
+      "from_id": 1204,
+      "to_id": 1205,
+      "type": "因果关系"
+    },
+    {
+      "id": 595,
+      "from_id": 1206,
+      "to_id": 1207,
+      "type": "因果关系"
+    },
+    {
+      "id": 596,
+      "from_id": 1206,
+      "to_id": 1208,
+      "type": "因果关系"
+    },
+    {
+      "id": 597,
+      "from_id": 1208,
+      "to_id": 1212,
+      "type": "因果关系"
+    },
+    {
+      "id": 598,
+      "from_id": 1207,
+      "to_id": 1212,
+      "type": "因果关系"
+    },
+    {
+      "id": 599,
+      "from_id": 1212,
+      "to_id": 1213,
+      "type": "因果关系"
+    },
+    {
+      "id": 600,
+      "from_id": 1215,
+      "to_id": 1214,
+      "type": "强相关"
+    },
+    {
+      "id": 601,
+      "from_id": 1216,
+      "to_id": 1214,
+      "type": "因果关系"
+    },
+    {
+      "id": 602,
+      "from_id": 1217,
+      "to_id": 1214,
+      "type": "因果关系"
+    },
+    {
+      "id": 603,
+      "from_id": 1218,
+      "to_id": 1214,
+      "type": "因果关系"
+    },
+    {
+      "id": 604,
+      "from_id": 1220,
+      "to_id": 1219,
+      "type": "强相关"
+    },
+    {
+      "id": 605,
+      "from_id": 1221,
+      "to_id": 1222,
+      "type": "unknow"
+    },
+    {
+      "id": 606,
+      "from_id": 1223,
+      "to_id": 1221,
+      "type": "unknow"
+    },
+    {
+      "id": 607,
+      "from_id": 1227,
+      "to_id": 1228,
+      "type": "定义是"
+    },
+    {
+      "id": 608,
+      "from_id": 1229,
+      "to_id": 1230,
+      "type": "因果关系"
+    },
+    {
+      "id": 609,
+      "from_id": 1229,
+      "to_id": 1231,
+      "type": "因果关系"
+    },
+    {
+      "id": 610,
+      "from_id": 1229,
+      "to_id": 1232,
+      "type": "因果关系"
+    },
+    {
+      "id": 611,
+      "from_id": 1233,
+      "to_id": 1234,
+      "type": "定义是"
+    },
+    {
+      "id": 612,
+      "from_id": 1235,
+      "to_id": 1236,
+      "type": "同类"
+    },
+    {
+      "id": 613,
+      "from_id": 1236,
+      "to_id": 1237,
+      "type": "定义是"
+    },
+    {
+      "id": 614,
+      "from_id": 1238,
+      "to_id": 1239,
+      "type": "包含"
+    },
+    {
+      "id": 615,
+      "from_id": 1238,
+      "to_id": 1240,
+      "type": "包含"
+    },
+    {
+      "id": 616,
+      "from_id": 1238,
+      "to_id": 1241,
+      "type": "包含"
+    },
+    {
+      "id": 617,
+      "from_id": 1242,
+      "to_id": 1243,
+      "type": "定义是"
+    },
+    {
+      "id": 618,
+      "from_id": 1244,
+      "to_id": 1245,
+      "type": "强相关"
+    },
+    {
+      "id": 619,
+      "from_id": 1247,
+      "to_id": 1248,
+      "type": "定义是"
+    },
+    {
+      "id": 620,
+      "from_id": 1249,
+      "to_id": 1250,
+      "type": "强相关"
+    },
+    {
+      "id": 621,
+      "from_id": 1251,
+      "to_id": 1252,
+      "type": "定义是"
+    },
+    {
+      "id": 622,
+      "from_id": 1253,
+      "to_id": 1254,
+      "type": "强相关"
+    },
+    {
+      "id": 623,
+      "from_id": 1255,
+      "to_id": 1256,
+      "type": "因果关系"
+    },
+    {
+      "id": 624,
+      "from_id": 1257,
+      "to_id": 1258,
+      "type": "因果关系"
+    },
+    {
+      "id": 625,
+      "from_id": 1259,
+      "to_id": 1260,
+      "type": "因果关系"
+    },
+    {
+      "id": 626,
+      "from_id": 1262,
+      "to_id": 1261,
+      "type": "反比"
+    },
+    {
+      "id": 627,
+      "from_id": 1263,
+      "to_id": 1265,
+      "type": "因果关系"
+    },
+    {
+      "id": 628,
+      "from_id": 1267,
+      "to_id": 1268,
+      "type": "因果关系"
+    },
+    {
+      "id": 629,
+      "from_id": 1270,
+      "to_id": 1271,
+      "type": "不大于"
+    },
+    {
+      "id": 630,
+      "from_id": 1273,
+      "to_id": 1272,
+      "type": "因果关系"
+    },
+    {
+      "id": 631,
+      "from_id": 1274,
+      "to_id": 1275,
+      "type": "同类"
+    },
+    {
+      "id": 632,
+      "from_id": 1276,
+      "to_id": 1275,
+      "type": "同类"
+    },
+    {
+      "id": 633,
+      "from_id": 1278,
+      "to_id": 1279,
+      "type": "unknow"
+    },
+    {
+      "id": 634,
+      "from_id": 1281,
+      "to_id": 1280,
+      "type": "强相关"
+    },
+    {
+      "id": 635,
+      "from_id": 1282,
+      "to_id": 1283,
+      "type": "同类"
+    },
+    {
+      "id": 636,
+      "from_id": 1283,
+      "to_id": 1284,
+      "type": "同类"
+    },
+    {
+      "id": 637,
+      "from_id": 1285,
+      "to_id": 1284,
+      "type": "同类"
+    },
+    {
+      "id": 638,
+      "from_id": 1286,
+      "to_id": 1285,
+      "type": "同类"
+    },
+    {
+      "id": 639,
+      "from_id": 1287,
+      "to_id": 1288,
+      "type": "弱相关"
+    },
+    {
+      "id": 640,
+      "from_id": 1289,
+      "to_id": 1290,
+      "type": "定义是"
+    },
+    {
+      "id": 641,
+      "from_id": 1291,
+      "to_id": 1292,
+      "type": "强相关"
+    },
+    {
+      "id": 642,
+      "from_id": 1296,
+      "to_id": 1297,
+      "type": "强相关"
+    },
+    {
+      "id": 643,
+      "from_id": 1300,
+      "to_id": 1301,
+      "type": "强相关"
+    },
+    {
+      "id": 644,
+      "from_id": 1302,
+      "to_id": 1303,
+      "type": "强相关"
+    },
+    {
+      "id": 645,
+      "from_id": 1304,
+      "to_id": 1305,
+      "type": "具有"
+    },
+    {
+      "id": 646,
+      "from_id": 1307,
+      "to_id": 1309,
+      "type": "因果关系"
+    },
+    {
+      "id": 647,
+      "from_id": 1308,
+      "to_id": 1309,
+      "type": "具有"
+    },
+    {
+      "id": 648,
+      "from_id": 1310,
+      "to_id": 1311,
+      "type": "因果关系"
+    },
+    {
+      "id": 649,
+      "from_id": 1312,
+      "to_id": 1314,
+      "type": "unknow"
+    },
+    {
+      "id": 650,
+      "from_id": 1316,
+      "to_id": 1318,
+      "type": "强相关"
+    },
+    {
+      "id": 651,
+      "from_id": 1319,
+      "to_id": 1320,
+      "type": "强相关"
+    },
+    {
+      "id": 652,
+      "from_id": 1324,
+      "to_id": 1323,
+      "type": "强相关"
+    },
+    {
+      "id": 653,
+      "from_id": 1325,
+      "to_id": 1326,
+      "type": "因果关系"
+    },
+    {
+      "id": 654,
+      "from_id": 1329,
+      "to_id": 1331,
+      "type": "因果关系"
+    },
+    {
+      "id": 655,
+      "from_id": 1332,
+      "to_id": 1333,
+      "type": "同类"
+    },
+    {
+      "id": 656,
+      "from_id": 1334,
+      "to_id": 1335,
+      "type": "因果关系"
+    },
+    {
+      "id": 657,
+      "from_id": 1334,
+      "to_id": 1336,
+      "type": "因果关系"
+    },
+    {
+      "id": 658,
+      "from_id": 1334,
+      "to_id": 1337,
+      "type": "因果关系"
+    },
+    {
+      "id": 659,
+      "from_id": 1339,
+      "to_id": 1340,
+      "type": "强相关"
+    },
+    {
+      "id": 660,
+      "from_id": 1341,
+      "to_id": 1342,
+      "type": "因果关系"
+    },
+    {
+      "id": 661,
+      "from_id": 1343,
+      "to_id": 1344,
+      "type": "包含"
+    },
+    {
+      "id": 662,
+      "from_id": 1345,
+      "to_id": 1346,
+      "type": "因果关系"
+    },
+    {
+      "id": 663,
+      "from_id": 1347,
+      "to_id": 1348,
+      "type": "因果关系"
+    },
+    {
+      "id": 664,
+      "from_id": 1348,
+      "to_id": 1349,
+      "type": "因果关系"
+    },
+    {
+      "id": 665,
+      "from_id": 1351,
+      "to_id": 1352,
+      "type": "同类"
+    },
+    {
+      "id": 666,
+      "from_id": 1352,
+      "to_id": 1353,
+      "type": "同类"
+    },
+    {
+      "id": 667,
+      "from_id": 1353,
+      "to_id": 1354,
+      "type": "同类"
+    },
+    {
+      "id": 668,
+      "from_id": 1355,
+      "to_id": 1357,
+      "type": "因果关系"
+    },
+    {
+      "id": 669,
+      "from_id": 1361,
+      "to_id": 1362,
+      "type": "因果关系"
+    },
+    {
+      "id": 670,
+      "from_id": 1362,
+      "to_id": 1363,
+      "type": "因果关系"
+    },
+    {
+      "id": 671,
+      "from_id": 1364,
+      "to_id": 1367,
+      "type": "因果关系"
+    },
+    {
+      "id": 672,
+      "from_id": 1368,
+      "to_id": 1370,
+      "type": "强相关"
+    },
+    {
+      "id": 673,
+      "from_id": 1374,
+      "to_id": 1375,
+      "type": "因果关系"
+    },
+    {
+      "id": 674,
+      "from_id": 1376,
+      "to_id": 1377,
+      "type": "因果关系"
+    },
+    {
+      "id": 675,
+      "from_id": 1376,
+      "to_id": 1378,
+      "type": "因果关系"
+    },
+    {
+      "id": 676,
+      "from_id": 1379,
+      "to_id": 1380,
+      "type": "同类"
+    },
+    {
+      "id": 677,
+      "from_id": 1381,
+      "to_id": 1382,
+      "type": "包含"
+    },
+    {
+      "id": 678,
+      "from_id": 1381,
+      "to_id": 1383,
+      "type": "包含"
+    },
+    {
+      "id": 679,
+      "from_id": 1381,
+      "to_id": 1384,
+      "type": "包含"
+    },
+    {
+      "id": 680,
+      "from_id": 1381,
+      "to_id": 1385,
+      "type": "包含"
+    },
+    {
+      "id": 681,
+      "from_id": 1381,
+      "to_id": 1386,
+      "type": "包含"
+    },
+    {
+      "id": 682,
+      "from_id": 1381,
+      "to_id": 1387,
+      "type": "包含"
+    },
+    {
+      "id": 683,
+      "from_id": 1388,
+      "to_id": 1389,
+      "type": "包含"
+    },
+    {
+      "id": 684,
+      "from_id": 1388,
+      "to_id": 1390,
+      "type": "包含"
+    },
+    {
+      "id": 685,
+      "from_id": 1388,
+      "to_id": 1391,
+      "type": "包含"
+    },
+    {
+      "id": 686,
+      "from_id": 1394,
+      "to_id": 1395,
+      "type": "包含"
+    },
+    {
+      "id": 687,
+      "from_id": 1395,
+      "to_id": 1398,
+      "type": "同类"
+    },
+    {
+      "id": 688,
+      "from_id": 1401,
+      "to_id": 1402,
+      "type": "同类"
+    },
+    {
+      "id": 689,
+      "from_id": 1403,
+      "to_id": 1404,
+      "type": "强相关"
+    },
+    {
+      "id": 690,
+      "from_id": 1405,
+      "to_id": 1406,
+      "type": "同类"
+    },
+    {
+      "id": 691,
+      "from_id": 1409,
+      "to_id": 1408,
+      "type": "强相关"
+    },
+    {
+      "id": 693,
+      "from_id": 1415,
+      "to_id": 1416,
+      "type": "因果关系"
+    },
+    {
+      "id": 694,
+      "from_id": 1415,
+      "to_id": 1417,
+      "type": "因果关系"
+    },
+    {
+      "id": 695,
+      "from_id": 1418,
+      "to_id": 1419,
+      "type": "因果关系"
+    },
+    {
+      "id": 696,
+      "from_id": 1418,
+      "to_id": 1421,
+      "type": "强相关"
+    },
+    {
+      "id": 697,
+      "from_id": 1421,
+      "to_id": 1424,
+      "type": "因果关系"
+    },
+    {
+      "id": 698,
+      "from_id": 1425,
+      "to_id": 1426,
+      "type": "强相关"
+    },
+    {
+      "id": 699,
+      "from_id": 1428,
+      "to_id": 1427,
+      "type": "强相关"
+    },
+    {
+      "id": 700,
+      "from_id": 1431,
+      "to_id": 1432,
+      "type": "强相关"
+    },
+    {
+      "id": 701,
+      "from_id": 1434,
+      "to_id": 1433,
+      "type": "unknow"
+    },
+    {
+      "id": 702,
+      "from_id": 1435,
+      "to_id": 1436,
+      "type": "弱相关"
+    },
+    {
+      "id": 703,
+      "from_id": 1439,
+      "to_id": 1440,
+      "type": "unknow"
+    },
+    {
+      "id": 704,
+      "from_id": 1441,
+      "to_id": 1439,
+      "type": "强相关"
+    }
+  ]
+}
