@@ -177,6 +177,28 @@ print(key_phrases)
 - Calculating the topic probability distribution of the text and the topic probability distribution of each candidate phrase by using the pre-trained LDA model to obtain the final weight  
 
 
+## 五：知识图谱构建
+### 1.依赖安装
+python>=3.7
+
+```python
+pip install -r requirement.txt
+```
+### 2. 算法功能和使用方法
+该算法实现从非结构化文本中抽取实体和关系，并将其组成三元组，构建知识图谱。<br>
+**执行算法**
+```
+python3 demo_test.py --sens "2022年6月10日2时40分许，陈继志到正在店内用餐的被害人王某某、李某、远某、刘某某桌旁，对王某某实施骚扰，遭拒后，陈继志殴打王某某，王某某与李某进行反抗。"
+```
+<br>
+
+**执行过程和结果** 
+
+![image](https://github.com/XingchaoNie/GoldminerER/assets/42695888/118c8b60-4ead-4f0c-93da-2a82a2135de0)
+
+
+
+
 ## Reference  
 - Teneva N , Cheng W . Salience Rank: Efficient Keyphrase Extraction with Topic Modeling[C]// Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers). 2017.  
 - Liu Z , Huang W , Zheng Y , et al. Automatic Keyphrase Extraction via Topic Decomposition[C]// Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing, EMNLP 2010, 9-11 October 2010, MIT Stata Center, Massachusetts, USA, A meeting of SIGDAT, a Special Interest Group of the ACL. Association for Computational Linguistics, 2010.
