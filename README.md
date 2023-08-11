@@ -1,5 +1,5 @@
 # GoldminerER
-## 一、表情及音频双模态情绪识别<PVER-master>
+## 一、基于面部表情的情绪识别<PVER-master>
 ### 环境配置
 1. 系统环境配置。于PVER-master/config路径下进行如下操作
   - 新建conda环境, python版本为3.7
@@ -48,9 +48,16 @@ video_tag = False
 ### 项目结构说明
 待补充
 
-# 二、文本主题识别
+# 二、基于音频的情绪识别
+
+## 环境配置
+
+1. 基本环境配置与上一节中基于面部表情的情绪识别一致
+
+# 三、文本主题识别
+
 待补充
-# 三、COGMEN
+# 四、COGMEN
 ### Requirements
 We use PyG (PyTorch Geometric) for the GNN component in our architecture. RGCNConv and TransformerConv
 
@@ -77,7 +84,7 @@ https://github.com/Exploration-Lab/COGMEN
 
 # chinese_keyphrase_extractor (CKPE)
 
-## 四.关键词网络关系抽取
+## 五.关键词网络关系抽取
 
 ### 1.使用方法 Usage
 
