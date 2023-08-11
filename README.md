@@ -61,13 +61,23 @@ video_tag = False
 ### Requirements
 We use PyG (PyTorch Geometric) for the GNN component in our architecture. RGCNConv and TransformerConv
 
-We use comet for logging all our experiments and its Bayesian optimizer for hyperparameter tuning.
 使用 comet 记录所有实验，并使用其贝叶斯优化器调整超参数。
 
 对于文本特征，我们使用 SBERT。
 ### 环境配置
+python3.7版本及以上
 
-Install Comet.ml
+Pytorch如果安装GPU版本，cuda版本需要11.7及以上
+
+pip install comet_ml --upgrade #使用默认的 Python，comet_ml升级到最新版本
+
+pip install torch_geometric（如果报错可卸载最新版本，使用2.1.0版本）
+
+pip install -U sentence-transformers
+### 数据预处理
+数据集：iemocap_4
+
+对数据集进行处理，运行
 
 python preprocess.py --dataset="iemocap_4"
 ### 开始训练
