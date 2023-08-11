@@ -229,7 +229,7 @@ print(key_phrases)
 - Calculating the topic probability distribution of the text and the topic probability distribution of each candidate phrase by using the pre-trained LDA model to obtain the final weight  
 
 
-## 五：知识图谱构建
+## 六：知识图谱构建
 ### 1.依赖安装
 python>=3.7
 
