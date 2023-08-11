@@ -127,8 +127,6 @@ Paper: https://arxiv.org/abs/2205.02455
 
 https://github.com/Exploration-Lab/COGMEN
 
-# chinese_keyphrase_extractor (CKPE)
-
 ## 五.关键词网络关系抽取
 
 ### 1.使用方法 Usage
