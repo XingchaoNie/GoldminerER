@@ -81,8 +81,19 @@ pip install transformers, speechbrain
 
 
 # 三、文本主题识别
+### 环境配置
+- 在python3.6+环境下使用pip命令安装torch1.x,numpy,math,matplotlib,linecache,jieba进行基础环境配置。
+### 使用方法
+1. 将数据文件放到data文件夹下。
+2. 更改data_nyt.py中的data_file变量，将其改为自己的文件路径。
+3. 更改main.py文件中的文件路径。
+4. 运行main.py文件
+```
+python main.py --mode train  --train_embeddings 1 --epochs 1000
+```
+### 结果展示
+![image](ETM/results/result.png)
 
-待补充
 # 四、COGMEN
 ### Requirements
 We use PyG (PyTorch Geometric) for the GNN component in our architecture. RGCNConv and TransformerConv
