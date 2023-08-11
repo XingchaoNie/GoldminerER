@@ -182,7 +182,7 @@ print(key_phrases)
 python>=3.7
 
 ```python
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 ### 2. 算法功能和使用方法
 该算法实现从非结构化文本中抽取实体和关系，并将其组成三元组，构建知识图谱。<br>
